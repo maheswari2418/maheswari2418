@@ -45,32 +45,18 @@ I specialize in **React.js, Node.js, Tailwind CSS, MongoDB, AWS, and Terraform**
 
 ---
 
-## 📂 Featured Projects
 
-### 🌟 Word-to-PDF Converter
-React + Tailwind app to convert Word `.docx` files to PDF.  
-[🔗 View Project](https://github.com/YOUR-USERNAME/Word-to-PDF)
-
-### 🛒 ShopFlow – Full-Stack E-commerce Platform
-- Developed catalog, payment, and real-time inventory features  
-- Optimized checkout flow with Redux & secure MongoDB schemas  
-[🔗 View Project](https://github.com/YOUR-USERNAME/Ecommerce-React)
-
-### ☁ Cloud Infrastructure Management Platform
-- Automated AWS provisioning using Terraform  
-- Built real-time monitoring dashboards and Lambda alerts  
-- Optimized cloud infrastructure for scalability and cost-efficiency  
-
-### 🔢 Sorting Visualizer & Mini Projects
-Visualize sorting algorithms and UI experiments.  
-[🔗 View Projects](https://github.com/YOUR-USERNAME)
 
 ---
 
 ## 📈 GitHub Stats
-![Maheswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=radical)
 
+---
+## 🎖 Open-Source Contributions & Achievements
+
+[![HoloPIN](https://holopin.me/12345)](https://holopin.io/@maheswari)
 ---
 
 ## 🏆 Hacktoberfest 2025
