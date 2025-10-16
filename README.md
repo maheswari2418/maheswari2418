@@ -49,9 +49,7 @@ I specialize in **React.js, Node.js, Tailwind CSS, MongoDB, AWS, and Terraform**
 
 ---
 
-## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=radical)
 
 ---
 ## 🎖 Open-Source Contributions & Achievements
