@@ -51,8 +51,8 @@ A mini project to generate beautiful glassmorphism color palettes.
 ---
 
 ## 📈 GitHub Stats
-![Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+![Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418E&layout=compact&theme=radical)
 
 ---
 
@@ -64,8 +64,8 @@ Make your first PR, learn, and grow!
 ---
 
 ## 💬 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari2418)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheswari-kosaraju)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://YOUR-PORTFOLIO.com)
 
 ---
