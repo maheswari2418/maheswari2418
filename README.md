@@ -35,11 +35,7 @@ Actively contributing to open-source projects and Hacktoberfest 2025.
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest)
 ![Profile Views](https://komarev.com/ghpvc/?username=maheswari2418&color=blueviolet&style=for-the-badge)
 
----
 
-![Stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=default)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact)
-![Streak](https://streak-stats.demolab.com/?user=maheswari2418&theme=default)
 
 ---
 
