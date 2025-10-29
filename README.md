@@ -37,11 +37,12 @@ Actively contributing to open-source projects and Hacktoberfest 2025.
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest)
 ![Profile Views](https://komarev.com/ghpvc/?username=maheswari2418&color=blueviolet&style=for-the-badge)
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?logo=hacktoberfest)](https://holopin.io/@maheswari2418)
-[![Contributor](https://www.holopin.io/hacktoberfest2025/userbadge/cmgp9g1w0008sla04bm1n1cua).
-[![Holopin Profile](https://holopin.me/maheswari2418)](https://holopin.io/@maheswari2418)
+
+[![Holopin Badges](https://holopin.me/maheswari2418)](https://holopin.io/@maheswari2418)
 
 ---
+
+### 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=default)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact)
