@@ -38,7 +38,6 @@ Actively contributing to open-source projects and Hacktoberfest 2025.
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest)
 ![Profile Views](https://komarev.com/ghpvc/?username=maheswari2418&color=blueviolet&style=for-the-badge)
 
-[![Holopin Badges](https://holopin.me/maheswari2418)](https://holopin.io/@maheswari2418)
 
 ---
 
