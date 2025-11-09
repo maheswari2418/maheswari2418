@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maheswari  
 
-**Full Stack & DevOps Developer** focused on automation, cloud, and scalable systems.  
+**Full Stack Developer & DevOps Enthusiast** focused on automation, cloud, and scalable systems.  
 Actively contributing to open-source projects and Hacktoberfest 2025.  
 
 ---
