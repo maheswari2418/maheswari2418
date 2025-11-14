@@ -54,6 +54,7 @@ I actively contribute to open-source projects and participated in **Hacktoberfes
 I love collaborating, reviewing code, and improving community projects.
 [![Holopin Badge Board](https://holopin.me/maheswari2418)](https://holopin.io/@maheswari2418)
 
+[![An image of @maheswari2418's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maheswari2418)](https://holopin.io/@maheswari2418)
 
 ### Badges
 ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
