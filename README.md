@@ -52,6 +52,8 @@
 
 I actively contribute to open-source projects and participated in **Hacktoberfest 2025**.  
 I love collaborating, reviewing code, and improving community projects.
+[![Holopin Badge Board](https://holopin.me/maheswari2418)](https://holopin.io/@maheswari2418)
+
 
 ### Badges
 ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
