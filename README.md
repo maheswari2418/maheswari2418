@@ -52,20 +52,11 @@
 
 I actively contribute to open-source projects and participated in **Hacktoberfest 2025**.  
 I love collaborating, reviewing code, and improving community projects.
-[![Holopin Badge Board](https://holopin.me/maheswari2418)](https://holopin.io/@maheswari2418)
 
-[![An image of @maheswari2418's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maheswari2418)](https://holopin.io/@maheswari2418)
 
-### Badges
-![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%99%A5-lightgrey?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge)
-![Hacktoberfest Contributor](https://img.shields.io/badge/Hacktoberfest-Contributor-ff69b4?style=for-the-badge)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Merged-success?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues-Opened-important?style=for-the-badge)
-![Contributor](https://img.shields.io/badge/Role-Contributor-blueviolet?style=for-the-badge)
-d features  
+
+
+[![Holopin Badges](https://holopin.me/maheswari2418)](https://holopin.io/@maheswari2418)
 
 
 
