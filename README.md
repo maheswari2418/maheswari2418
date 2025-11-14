@@ -56,16 +56,12 @@ I love collaborating, reviewing code, and improving community projects.
 
 
 ## 🎖️ Holopin Badges
-<p align="center">
-  <a href="https://www.holopin.io/@maheswari2418#badges">
-    <img src="https://holopin.me/maheswari2418?fresh=true" width="250px">
-  </a>
-</p>
-
 
 <h3 align="center">Holopin Badges</h3>
 
 <p align="center">
+    <a href="https://www.holopin.io/@maheswari2418#badges">
+    <img src="https://holopin.me/maheswari2418?fresh=true" width="250px">
   <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120px">
   <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="120px">
   <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="120px">
