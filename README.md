@@ -3,7 +3,7 @@
 
 <p align="center">
   Passionate about building scalable applications, automating workflows, and contributing to open-source.
-  Actively participating in <b>Hacktoberfest 2025</b> and community-driven projects.
+  participated in <b>Hacktoberfest 2025</b> and community-driven projects.
 </p>
 
 ---
