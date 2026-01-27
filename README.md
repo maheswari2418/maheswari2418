@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Maheswari</h1>
-<h3 align="center">Full Stack Developer | DevOps Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full Stack Developer | DevOps and Cloud Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   Passionate about building scalable applications, automating workflows, and contributing to open-source.
