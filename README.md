@@ -46,7 +46,7 @@
 
 ## 🏅 Open Source Contributions
 ### **🌐 Hacktoberfest 2025**
-- Contributing to beginner-friendly & intermediate open-source repositories  
+- Contributed to beginner-friendly & intermediate open-source repositories  
 - Creating meaningful pull requests  
 - Improving documentation, code quality, an## 🌐 Open Source Contributions
 
