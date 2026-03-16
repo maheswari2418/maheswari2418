@@ -60,52 +60,101 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 ## 🛠️ Tech Stack
 
 <div align="center">
+<svg width="700" height="200" viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
-<!-- Row 1 — scrolling left -->
-<img src="https://skillicons.dev/icons?i=aws" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=kubernetes" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=terraform" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=jenkins" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=githubactions" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=prometheus" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=grafana" height="40" />
+  <!-- AWS - float up/down -->
+  <image href="https://skillicons.dev/icons?i=aws" x="10" y="20" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
 
-<!-- Row 2 — scrolling right -->
-<br/><br/>
+  <!-- Docker - float with delay -->
+  <image href="https://skillicons.dev/icons?i=docker" x="75" y="20" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2s" begin="0.25s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
 
-<img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=bash" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=ubuntu" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="40" />
+  <!-- Kubernetes - rotate spin -->
+  <image href="https://skillicons.dev/icons?i=kubernetes" x="140" y="20" width="50" height="50">
+    <animateTransform attributeName="transform" type="rotate" values="0 165 45;360 165 45" dur="6s" repeatCount="indefinite"/>
+  </image>
 
-</div>
+  <!-- Terraform - float -->
+  <image href="https://skillicons.dev/icons?i=terraform" x="205" y="20" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.2s" begin="0.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
 
-<!-- Animated marquee scroll using SVG -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
+  <!-- Jenkins - float -->
+  <image href="https://skillicons.dev/icons?i=jenkins" x="270" y="20" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.4s" begin="0.1s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
 
-<div align="center">
+  <!-- GitHub Actions - rotate spin -->
+  <image href="https://skillicons.dev/icons?i=githubactions" x="335" y="20" width="50" height="50">
+    <animateTransform attributeName="transform" type="rotate" values="0 360 45;360 360 45" dur="8s" repeatCount="indefinite"/>
+  </image>
 
-![aws](https://img.shields.io/badge/-AWS-0f2027?style=flat-square&logo=amazon-aws&logoColor=00d4ff)&nbsp;
-![docker](https://img.shields.io/badge/-Docker-203a43?style=flat-square&logo=docker&logoColor=00d4ff)&nbsp;
-![k8s](https://img.shields.io/badge/-Kubernetes-2c5364?style=flat-square&logo=kubernetes&logoColor=00d4ff)&nbsp;
-![terraform](https://img.shields.io/badge/-Terraform-0f2027?style=flat-square&logo=terraform&logoColor=00d4ff)&nbsp;
-![jenkins](https://img.shields.io/badge/-Jenkins-203a43?style=flat-square&logo=jenkins&logoColor=00d4ff)&nbsp;
-![gha](https://img.shields.io/badge/-GitHub_Actions-2c5364?style=flat-square&logo=github-actions&logoColor=00d4ff)&nbsp;
-![prometheus](https://img.shields.io/badge/-Prometheus-0f2027?style=flat-square&logo=prometheus&logoColor=00d4ff)&nbsp;
-![grafana](https://img.shields.io/badge/-Grafana-203a43?style=flat-square&logo=grafana&logoColor=00d4ff)&nbsp;
-![python](https://img.shields.io/badge/-Python-2c5364?style=flat-square&logo=python&logoColor=00d4ff)&nbsp;
-![bash](https://img.shields.io/badge/-Bash-0f2027?style=flat-square&logo=gnu-bash&logoColor=00d4ff)&nbsp;
-![linux](https://img.shields.io/badge/-Linux-203a43?style=flat-square&logo=linux&logoColor=00d4ff)&nbsp;
-![git](https://img.shields.io/badge/-Git-2c5364?style=flat-square&logo=git&logoColor=00d4ff)
+  <!-- Prometheus - float -->
+  <image href="https://skillicons.dev/icons?i=prometheus" x="400" y="20" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
 
+  <!-- Grafana - float -->
+  <image href="https://skillicons.dev/icons?i=grafana" x="465" y="20" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.6s" begin="0.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
+
+  <!-- Ansible - rotate -->
+  <image href="https://skillicons.dev/icons?i=ansible" x="530" y="20" width="50" height="50">
+    <animateTransform attributeName="transform" type="rotate" values="0 555 45;-360 555 45" dur="7s" repeatCount="indefinite"/>
+  </image>
+
+  <!-- Linux - float -->
+  <image href="https://skillicons.dev/icons?i=linux" x="595" y="20" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.1s" begin="0.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
+
+  <!-- Row 2 -->
+
+  <!-- Python - rotate -->
+  <image href="https://skillicons.dev/icons?i=python" x="40" y="120" width="50" height="50">
+    <animateTransform attributeName="transform" type="rotate" values="0 65 145;360 65 145" dur="9s" repeatCount="indefinite"/>
+  </image>
+
+  <!-- Bash - float -->
+  <image href="https://skillicons.dev/icons?i=bash" x="115" y="120" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.3s" begin="0.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
+
+  <!-- Java - float -->
+  <image href="https://skillicons.dev/icons?i=java" x="190" y="120" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.5s" begin="0.7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
+
+  <!-- C++ - rotate -->
+  <image href="https://skillicons.dev/icons?i=cpp" x="265" y="120" width="50" height="50">
+    <animateTransform attributeName="transform" type="rotate" values="0 290 145;360 290 145" dur="10s" repeatCount="indefinite"/>
+  </image>
+
+  <!-- JavaScript - float -->
+  <image href="https://skillicons.dev/icons?i=javascript" x="340" y="120" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2s" begin="0.9s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
+
+  <!-- Ubuntu - float -->
+  <image href="https://skillicons.dev/icons?i=ubuntu" x="415" y="120" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.7s" begin="0.1s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
+
+  <!-- Git - rotate -->
+  <image href="https://skillicons.dev/icons?i=git" x="490" y="120" width="50" height="50">
+    <animateTransform attributeName="transform" type="rotate" values="0 515 145;-360 515 145" dur="8s" repeatCount="indefinite"/>
+  </image>
+
+  <!-- GitHub - float -->
+  <image href="https://skillicons.dev/icons?i=github" x="565" y="120" width="50" height="50">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.4s" begin="0.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  </image>
+
+</svg>
 </div>
 
 ---
