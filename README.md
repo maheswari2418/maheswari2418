@@ -8,14 +8,7 @@
 
 <br/>
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f2027?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/maheswari-kosaraju)
-[![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-203a43?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/maheswari2418)
-[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:maheswarikosaraju76@gmail.com)
-
-
-</div>
 
 ---
 
@@ -96,6 +89,14 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 </div>
 
 ---
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f2027?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/maheswari-kosaraju)
+[![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-203a43?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/maheswari2418)
+[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:maheswarikosaraju76@gmail.com)
+
+
+</div>
 
 <div align="center">
 
