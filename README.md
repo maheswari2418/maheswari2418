@@ -61,32 +61,11 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,ansible,linux,python,bash,java,cpp,javascript,ubuntu,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,ansible,linux,python,bash,java,ubuntu,git,github" />
 
 </div>
 
 ---
-
-## 🚀 Projects
-
-**[Infrastructure Automation](https://github.com/maheswari2418/Infrastructure-Automation)** — Full AWS infra (EC2, VPC, S3, IAM) via Terraform IaC. Dockerized deploys. Prometheus + Grafana dashboards. CloudWatch alerts. Zero manual steps.
-`Terraform` `AWS` `Docker` `Prometheus` `Grafana` `Bash`
-
-```
-✅ 100% automated AWS provisioning — eliminated manual console config
-✅ Environment parity across dev / staging / prod via Docker
-✅ Real-time monitoring: CPU · memory · disk I/O · uptime
-✅ Zero-trust security: least-privilege IAM + VPC rules
-```
-
-**[CI/CD Pipeline Automation](https://github.com/maheswari2418)** — Jenkins + GitHub Webhooks → Docker build → push → EC2 deploy. Push code, coffee in hand. ☕
-`Jenkins` `Docker` `GitHub Webhooks` `AWS EC2` `Shell Scripting`
-
-```
-✅ Zero manual deployment effort — fully automated
-✅ Multi-stage pipeline: checkout → build → push → deploy
-✅ Zero-touch continuous delivery on every push
-```
 
 ---
 
