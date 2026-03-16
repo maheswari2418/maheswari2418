@@ -61,40 +61,9 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws" width="50" style="animation:float 2s ease-in-out infinite;" title="AWS" />&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" width="50" style="animation:float 2s ease-in-out infinite 0.2s;" title="Docker" />&nbsp;
-<img src="https://skillicons.dev/icons?i=kubernetes" width="50" style="animation:spin 6s linear infinite;" title="Kubernetes" />&nbsp;
-<img src="https://skillicons.dev/icons?i=terraform" width="50" style="animation:float 2.2s ease-in-out infinite 0.4s;" title="Terraform" />&nbsp;
-<img src="https://skillicons.dev/icons?i=jenkins" width="50" style="animation:float 2.4s ease-in-out infinite 0.1s;" title="Jenkins" />&nbsp;
-<img src="https://skillicons.dev/icons?i=githubactions" width="50" style="animation:spin 8s linear infinite;" title="GitHub Actions" />&nbsp;
-<img src="https://skillicons.dev/icons?i=prometheus" width="50" style="animation:float 2s ease-in-out infinite 0.3s;" title="Prometheus" />&nbsp;
-<img src="https://skillicons.dev/icons?i=grafana" width="50" style="animation:float 2.6s ease-in-out infinite 0.5s;" title="Grafana" />&nbsp;
-<img src="https://skillicons.dev/icons?i=ansible" width="50" style="animation:spin 7s linear infinite reverse;" title="Ansible" />&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" width="50" style="animation:float 2.1s ease-in-out infinite 0.6s;" title="Linux" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python" width="50" style="animation:spin 9s linear infinite;" title="Python" />&nbsp;
-<img src="https://skillicons.dev/icons?i=bash" width="50" style="animation:float 2.3s ease-in-out infinite 0.2s;" title="Bash" />&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="50" style="animation:float 2.5s ease-in-out infinite 0.7s;" title="Java" />&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" width="50" style="animation:spin 10s linear infinite;" title="C++" />&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" width="50" style="animation:float 2s ease-in-out infinite 0.9s;" title="JavaScript" />&nbsp;
-<img src="https://skillicons.dev/icons?i=ubuntu" width="50" style="animation:float 2.7s ease-in-out infinite 0.1s;" title="Ubuntu" />&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="50" style="animation:spin 8s linear infinite reverse;" title="Git" />&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="50" style="animation:float 2.4s ease-in-out infinite 0.5s;" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,ansible,linux,python,bash,java,cpp,javascript,ubuntu,git,github" />
 
 </div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50%       { transform: translateY(-10px); }
-}
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to   { transform: rotate(360deg); }
-}
-</style>
 
 ---
 
