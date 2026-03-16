@@ -61,7 +61,7 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,ansible,linux,python,bash,java,ubuntu,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,ansible,linux,python,bash,java,ubuntu,github" />
 
 </div>
 
