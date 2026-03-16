@@ -1,58 +1,66 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Maheswari%20Kosaraju&fontSize=42&fontColor=00d4ff&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20K8s%20%7C%20CI%2FCD%20%7C%20SRE&descAlignY=58&descSize=15&descColor=a0d8ef&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Maheswari%20Kosaraju&fontSize=42&fontColor=00d4ff&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD%20%7C%20SRE&descAlignY=58&descSize=14&descColor=a0d8ef&animation=fadeIn"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AWS+%7C+EC2+%7C+S3+%7C+VPC+%7C+IAM+%7C+CloudWatch+%E2%98%81%EF%B8%8F;Terraform+IaC+%7C+100%25+Automated+Provisioning+%F0%9F%9B%A0%EF%B8%8F;Jenkins+%7C+GitHub+Actions+%7C+Docker+%7C+K8s+%E2%9A%99%EF%B8%8F;Prometheus+%7C+Grafana+%7C+Real-time+Monitoring+%F0%9F%93%8A;AIR+10+%C2%B7+CGPA+9.0+%C2%B7+LeetCode+1505+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Automate+Everything.+Monitor+Obsessively.+Ship+Reliably.+%F0%9F%9A%80;AWS+%7C+EC2+%7C+S3+%7C+VPC+%7C+IAM+%7C+CloudWatch+%E2%98%81%EF%B8%8F;Terraform+IaC+%7C+100%25+Automated+Provisioning+%F0%9F%9B%A0%EF%B8%8F;Jenkins+%7C+GitHub+Actions+%7C+Docker+%7C+K8s+%E2%9A%99%EF%B8%8F;Prometheus+%7C+Grafana+%7C+Real-time+Monitoring+%F0%9F%93%8A)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f2027?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/maheswari-kosaraju)
+[![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-203a43?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/maheswari2418)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-2c5364?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:maheswarikosaraju76@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--9398188825-0f2027?style=for-the-badge&logo=whatsapp&logoColor=00d4ff)](tel:+919398188825)
 
 </div>
 
 ---
 
+## 👋 About Me
+
+I am **Maheswari Kosaraju**, a DevOps Engineer fresher from India with hands-on experience in **CI/CD pipeline automation**, **Infrastructure as Code (IaC)** using Terraform, **Docker containerization**, and **AWS cloud provisioning**.
+
+I have built end-to-end automated infrastructure, deployed scalable monitoring systems, and implemented DevOps best practices using real-world projects.
+
+> 🎯 **Career Goal:** Actively seeking **DevOps Engineer / Cloud Engineer / SRE** opportunities.
+
+---
+
+## 🧠 Skills & Technologies
+
+### ☁️ Cloud Platforms
+
+- **AWS:** EC2, S3, Lambda, RDS, VPC, IAM, CloudWatch
+
+### ⚙️ DevOps & CI/CD
+
+- Jenkins, GitHub Actions
+- Terraform, Infrastructure as Code (IaC)
+
+### 🐳 Containers & Orchestration
+
+- Docker, Kubernetes (Minikube)
+
+### 📊 Monitoring & OS
+
+- Prometheus, Grafana, AWS CloudWatch, Log Analysis
+- Linux (Ubuntu / CentOS)
+
+### 💻 Languages & Version Control
+
+- Python, Bash, YAML
+- Java, C++, JavaScript
+- Git, GitHub
+
+---
+
 ## 🛠️ Tech Stack
 
-**☁️ Cloud — AWS**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
-  <img src="https://img.shields.io/badge/EC2-0f2027?style=for-the-badge&logo=amazon-ec2&logoColor=00d4ff" height="40"/>
-  <img src="https://img.shields.io/badge/S3-203a43?style=for-the-badge&logo=amazon-s3&logoColor=00d4ff" height="40"/>
-  <img src="https://img.shields.io/badge/Lambda-2c5364?style=for-the-badge&logo=aws-lambda&logoColor=00d4ff" height="40"/>
-  <img src="https://img.shields.io/badge/RDS-0f2027?style=for-the-badge&logo=amazon-rds&logoColor=00d4ff" height="40"/>
-  <img src="https://img.shields.io/badge/VPC-203a43?style=for-the-badge&logo=amazonaws&logoColor=00d4ff" height="40"/>
-  <img src="https://img.shields.io/badge/IAM-2c5364?style=for-the-badge&logo=amazonaws&logoColor=00d4ff" height="40"/>
-  <img src="https://img.shields.io/badge/CloudWatch-0f2027?style=for-the-badge&logo=amazonaws&logoColor=00d4ff" height="40"/>
-</p>
-
-**⚙️ DevOps, CI/CD & IaC**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/>
-</p>
-
-**📊 Monitoring & Observability**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus"/>
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/CloudWatch-0f2027?style=for-the-badge&logo=amazonaws&logoColor=00d4ff" height="40"/>
-</p>
-
-**💻 Languages, OS & VCS**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/YAML-2c5364?style=for-the-badge&logo=yaml&logoColor=00d4ff" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,python,bash,java,linux,ubuntu,git,github,cpp&perline=8" />
 </p>
 
 ---
@@ -91,7 +99,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Git Contribution Work
 
 <div align="center">
 
@@ -102,20 +110,13 @@
 
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=maheswari2418&bg_color=0f2027&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=203a43&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Views](https://komarev.com/ghpvc/?username=maheswari2418&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0f2027)
+
 </div>
 
 ---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maheswari--kosaraju-0f2027?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/maheswari-kosaraju)
-[![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-203a43?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/maheswari2418)
-[![Email](https://img.shields.io/badge/Email-maheswarikosaraju76@gmail.com-2c5364?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:maheswarikosaraju76@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91--9398188825-0f2027?style=for-the-badge&logo=whatsapp&logoColor=00d4ff)](tel:+919398188825)
-
-![Views](https://komarev.com/ghpvc/?username=maheswari2418&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0f2027)
-
-<br/>
 
 > *"Automate everything. Monitor obsessively. Ship reliably."*
 
