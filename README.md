@@ -60,102 +60,41 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 ## 🛠️ Tech Stack
 
 <div align="center">
-<svg width="700" height="200" viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
-  <!-- AWS - float up/down -->
-  <image href="https://skillicons.dev/icons?i=aws" x="10" y="20" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
+<img src="https://skillicons.dev/icons?i=aws" width="50" style="animation:float 2s ease-in-out infinite;" title="AWS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="50" style="animation:float 2s ease-in-out infinite 0.2s;" title="Docker" />&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50" style="animation:spin 6s linear infinite;" title="Kubernetes" />&nbsp;
+<img src="https://skillicons.dev/icons?i=terraform" width="50" style="animation:float 2.2s ease-in-out infinite 0.4s;" title="Terraform" />&nbsp;
+<img src="https://skillicons.dev/icons?i=jenkins" width="50" style="animation:float 2.4s ease-in-out infinite 0.1s;" title="Jenkins" />&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" width="50" style="animation:spin 8s linear infinite;" title="GitHub Actions" />&nbsp;
+<img src="https://skillicons.dev/icons?i=prometheus" width="50" style="animation:float 2s ease-in-out infinite 0.3s;" title="Prometheus" />&nbsp;
+<img src="https://skillicons.dev/icons?i=grafana" width="50" style="animation:float 2.6s ease-in-out infinite 0.5s;" title="Grafana" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ansible" width="50" style="animation:spin 7s linear infinite reverse;" title="Ansible" />&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="50" style="animation:float 2.1s ease-in-out infinite 0.6s;" title="Linux" />
 
-  <!-- Docker - float with delay -->
-  <image href="https://skillicons.dev/icons?i=docker" x="75" y="20" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2s" begin="0.25s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
+<br/><br/>
 
-  <!-- Kubernetes - rotate spin -->
-  <image href="https://skillicons.dev/icons?i=kubernetes" x="140" y="20" width="50" height="50">
-    <animateTransform attributeName="transform" type="rotate" values="0 165 45;360 165 45" dur="6s" repeatCount="indefinite"/>
-  </image>
+<img src="https://skillicons.dev/icons?i=python" width="50" style="animation:spin 9s linear infinite;" title="Python" />&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" width="50" style="animation:float 2.3s ease-in-out infinite 0.2s;" title="Bash" />&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="50" style="animation:float 2.5s ease-in-out infinite 0.7s;" title="Java" />&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="50" style="animation:spin 10s linear infinite;" title="C++" />&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" width="50" style="animation:float 2s ease-in-out infinite 0.9s;" title="JavaScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ubuntu" width="50" style="animation:float 2.7s ease-in-out infinite 0.1s;" title="Ubuntu" />&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="50" style="animation:spin 8s linear infinite reverse;" title="Git" />&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="50" style="animation:float 2.4s ease-in-out infinite 0.5s;" title="GitHub" />
 
-  <!-- Terraform - float -->
-  <image href="https://skillicons.dev/icons?i=terraform" x="205" y="20" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.2s" begin="0.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
-
-  <!-- Jenkins - float -->
-  <image href="https://skillicons.dev/icons?i=jenkins" x="270" y="20" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.4s" begin="0.1s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
-
-  <!-- GitHub Actions - rotate spin -->
-  <image href="https://skillicons.dev/icons?i=githubactions" x="335" y="20" width="50" height="50">
-    <animateTransform attributeName="transform" type="rotate" values="0 360 45;360 360 45" dur="8s" repeatCount="indefinite"/>
-  </image>
-
-  <!-- Prometheus - float -->
-  <image href="https://skillicons.dev/icons?i=prometheus" x="400" y="20" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
-
-  <!-- Grafana - float -->
-  <image href="https://skillicons.dev/icons?i=grafana" x="465" y="20" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.6s" begin="0.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
-
-  <!-- Ansible - rotate -->
-  <image href="https://skillicons.dev/icons?i=ansible" x="530" y="20" width="50" height="50">
-    <animateTransform attributeName="transform" type="rotate" values="0 555 45;-360 555 45" dur="7s" repeatCount="indefinite"/>
-  </image>
-
-  <!-- Linux - float -->
-  <image href="https://skillicons.dev/icons?i=linux" x="595" y="20" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.1s" begin="0.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
-
-  <!-- Row 2 -->
-
-  <!-- Python - rotate -->
-  <image href="https://skillicons.dev/icons?i=python" x="40" y="120" width="50" height="50">
-    <animateTransform attributeName="transform" type="rotate" values="0 65 145;360 65 145" dur="9s" repeatCount="indefinite"/>
-  </image>
-
-  <!-- Bash - float -->
-  <image href="https://skillicons.dev/icons?i=bash" x="115" y="120" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.3s" begin="0.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
-
-  <!-- Java - float -->
-  <image href="https://skillicons.dev/icons?i=java" x="190" y="120" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.5s" begin="0.7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
-
-  <!-- C++ - rotate -->
-  <image href="https://skillicons.dev/icons?i=cpp" x="265" y="120" width="50" height="50">
-    <animateTransform attributeName="transform" type="rotate" values="0 290 145;360 290 145" dur="10s" repeatCount="indefinite"/>
-  </image>
-
-  <!-- JavaScript - float -->
-  <image href="https://skillicons.dev/icons?i=javascript" x="340" y="120" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2s" begin="0.9s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
-
-  <!-- Ubuntu - float -->
-  <image href="https://skillicons.dev/icons?i=ubuntu" x="415" y="120" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.7s" begin="0.1s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
-
-  <!-- Git - rotate -->
-  <image href="https://skillicons.dev/icons?i=git" x="490" y="120" width="50" height="50">
-    <animateTransform attributeName="transform" type="rotate" values="0 515 145;-360 515 145" dur="8s" repeatCount="indefinite"/>
-  </image>
-
-  <!-- GitHub - float -->
-  <image href="https://skillicons.dev/icons?i=github" x="565" y="120" width="50" height="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="2.4s" begin="0.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-  </image>
-
-</svg>
 </div>
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50%       { transform: translateY(-10px); }
+}
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+</style>
 
 ---
 
