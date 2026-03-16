@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,40:0a3d2e,100:061a10&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=44&fontColor=39ff14&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20K8s%20%7C%20CI%2FCD%20%7C%20SRE&descAlignY=60&descSize=14&descColor=7fff7f&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Maheswari%20Kosaraju&fontSize=42&fontColor=00d4ff&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20K8s%20%7C%20CI%2FCD%20%7C%20SRE&descAlignY=58&descSize=15&descColor=a0d8ef&animation=fadeIn"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=680&lines=AWS+%7C+EC2+%7C+S3+%7C+VPC+%7C+IAM+%7C+CloudWatch+%E2%98%81%EF%B8%8F;Terraform+IaC+%7C+100%25+Automated+Provisioning+%F0%9F%9B%A0%EF%B8%8F;Jenkins+%7C+GitHub+Actions+%7C+Docker+%7C+K8s+%E2%9A%99%EF%B8%8F;Prometheus+%7C+Grafana+%7C+Real-time+Monitoring+%F0%9F%93%8A;AIR+10+%C2%B7+CGPA+9.0+%C2%B7+LeetCode+1505+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AWS+%7C+EC2+%7C+S3+%7C+VPC+%7C+IAM+%7C+CloudWatch+%E2%98%81%EF%B8%8F;Terraform+IaC+%7C+100%25+Automated+Provisioning+%F0%9F%9B%A0%EF%B8%8F;Jenkins+%7C+GitHub+Actions+%7C+Docker+%7C+K8s+%E2%9A%99%EF%B8%8F;Prometheus+%7C+Grafana+%7C+Real-time+Monitoring+%F0%9F%93%8A;AIR+10+%C2%B7+CGPA+9.0+%C2%B7+LeetCode+1505+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ whoami`
+## `~ whoami`
 
 ```yaml
 name     : Maheswari Kosaraju
@@ -21,7 +21,7 @@ stack:
   cicd       : Jenkins · GitHub Actions · Terraform IaC
   containers : Docker · Kubernetes (Minikube)
   monitoring : Prometheus · Grafana · CloudWatch · Log Analysis
-  scripting  : Python · Bash · Linux (Ubuntu / CentOS)
+  scripting  : Python · Bash · YAML · Linux (Ubuntu / CentOS)
   languages  : Java · C++ · JavaScript
 
 achievements:
@@ -40,37 +40,39 @@ quote    : "Automate everything. Monitor obsessively. Ship reliably."
 
 **☁️ Cloud — AWS**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0f2027?style=for-the-badge&logo=amazon-aws&logoColor=00d4ff)
+![EC2](https://img.shields.io/badge/EC2-203a43?style=for-the-badge&logo=amazon-ec2&logoColor=00d4ff)
+![S3](https://img.shields.io/badge/S3-203a43?style=for-the-badge&logo=amazon-s3&logoColor=00d4ff)
+![Lambda](https://img.shields.io/badge/Lambda-203a43?style=for-the-badge&logo=aws-lambda&logoColor=00d4ff)
+![RDS](https://img.shields.io/badge/RDS-2c5364?style=for-the-badge&logo=amazon-rds&logoColor=00d4ff)
+![VPC](https://img.shields.io/badge/VPC-2c5364?style=for-the-badge&logo=amazonaws&logoColor=00d4ff)
+![IAM](https://img.shields.io/badge/IAM-2c5364?style=for-the-badge&logo=amazonaws&logoColor=00d4ff)
 
 **⚙️ DevOps, CI/CD & IaC**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-0f2027?style=for-the-badge&logo=jenkins&logoColor=00d4ff)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-203a43?style=for-the-badge&logo=github-actions&logoColor=00d4ff)
+![Terraform](https://img.shields.io/badge/Terraform-2c5364?style=for-the-badge&logo=terraform&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=00d4ff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-203a43?style=for-the-badge&logo=kubernetes&logoColor=00d4ff)
 
 **📊 Monitoring & Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-2c5364?style=for-the-badge&logo=prometheus&logoColor=00d4ff)
+![Grafana](https://img.shields.io/badge/Grafana-0f2027?style=for-the-badge&logo=grafana&logoColor=00d4ff)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-203a43?style=for-the-badge&logo=amazonaws&logoColor=00d4ff)
 
 **💻 Languages, OS & VCS**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=39ff14)
+![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Bash](https://img.shields.io/badge/Bash-203a43?style=for-the-badge&logo=gnu-bash&logoColor=00d4ff)
+![YAML](https://img.shields.io/badge/YAML-2c5364?style=for-the-badge&logo=yaml&logoColor=00d4ff)
+![Java](https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=openjdk&logoColor=00d4ff)
+![C++](https://img.shields.io/badge/C++-203a43?style=for-the-badge&logo=cplusplus&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-2c5364?style=for-the-badge&logo=javascript&logoColor=00d4ff)
+![Linux](https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/Git-203a43?style=for-the-badge&logo=git&logoColor=00d4ff)
+![GitHub](https://img.shields.io/badge/GitHub-2c5364?style=for-the-badge&logo=github&logoColor=00d4ff)
 
 ---
 
@@ -86,7 +88,7 @@ quote    : "Automate everything. Monitor obsessively. Ship reliably."
 ✅ Zero-trust security: least-privilege IAM + VPC rules
 ```
 
-**CI/CD Pipeline Automation** — Jenkins + GitHub Webhooks → Docker build → push → EC2 deploy. Push code, coffee in hand. ☕
+**[CI/CD Pipeline Automation](https://github.com/maheswari2418)** — Jenkins + GitHub Webhooks → Docker build → push → EC2 deploy. Push code, coffee in hand. ☕
 `Jenkins` `Docker` `GitHub Webhooks` `AWS EC2` `Shell Scripting`
 
 ```
@@ -112,12 +114,12 @@ quote    : "Automate everything. Monitor obsessively. Ship reliably."
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f1e&title_color=39ff14&icon_color=39ff14&text_color=7fff7f&include_all_commits=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f1e&title_color=39ff14&text_color=7fff7f)
+![Stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d4ff&icon_color=00d4ff&text_color=a0d8ef&include_all_commits=true&count_private=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d4ff&text_color=a0d8ef)
 
-[![Streak](https://streak-stats.demolab.com?user=maheswari2418&theme=dark&hide_border=true&background=0a0f1e&ring=39ff14&fire=ff6b35&currStreakLabel=39ff14&sideLabels=7fff7f&dates=7fff7f)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=maheswari2418&theme=tokyonight&hide_border=true&background=0f2027&ring=00d4ff&fire=00aaff&currStreakLabel=00d4ff&sideLabels=a0d8ef&dates=a0d8ef)](https://git.io/streak-stats)
 
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=maheswari2418&bg_color=0a0f1e&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=0a3d2e&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=maheswari2418&bg_color=0f2027&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=203a43&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -125,11 +127,12 @@ quote    : "Automate everything. Monitor obsessively. Ship reliably."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maheswari--kosaraju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswari-kosaraju)
-[![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-181717?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/maheswari2418)
-[![Email](https://img.shields.io/badge/Email-maheswarikosaraju76-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarikosaraju76@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maheswari--kosaraju-0f2027?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/maheswari-kosaraju)
+[![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-203a43?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/maheswari2418)
+[![Email](https://img.shields.io/badge/Email-maheswarikosaraju76@gmail.com-2c5364?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:maheswarikosaraju76@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91--9398188825-0f2027?style=for-the-badge&logo=whatsapp&logoColor=00d4ff)](tel:+919398188825)
 
-![Views](https://komarev.com/ghpvc/?username=maheswari2418&label=Profile+Views&color=39ff14&style=for-the-badge&labelColor=0a0f1e)
+![Views](https://komarev.com/ghpvc/?username=maheswari2418&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0f2027)
 
 <br/>
 
@@ -137,4 +140,4 @@ quote    : "Automate everything. Monitor obsessively. Ship reliably."
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061a10,50:0a3d2e,100:0a0f1e&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
