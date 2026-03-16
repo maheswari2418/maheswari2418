@@ -22,7 +22,7 @@ I am **Maheswari Kosaraju**, a DevOps Engineer from India with hands-on experien
 
 I have built end-to-end automated infrastructure, deployed scalable monitoring systems, and implemented DevOps best practices through real-world projects.
 
-🏆 **All India Rank 10** — Coding Ninjas Premier League &nbsp;|&nbsp; ⚡ **LeetCode 1505** &nbsp;|&nbsp; 🎓 **CGPA 9.0 / 10**
+
 
 > 🎯 **Career Goal:** Actively seeking **DevOps Engineer / Cloud Engineer / SRE** opportunities.
 
@@ -74,7 +74,6 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 |:--|:-----------|:-------|:-----|
 | ☁️ | Cloud Computing Certification | NPTEL — Govt. of India | 2025 |
 | 🥇 | **All India Rank 10** — Coding Ninjas Premier League | Coding Ninjas | 2025 |
-| ⚡ | **LeetCode Rating 1505** (Java) | LeetCode | 2025 |
 | 🌍 | Open Source Contributor — Hacktoberfest 2025 | GitHub | 2025 |
 
 ---
