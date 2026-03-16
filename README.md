@@ -12,8 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f2027?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/maheswari-kosaraju)
 [![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-203a43?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/maheswari2418)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-2c5364?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:maheswarikosaraju76@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--9398188825-0f2027?style=for-the-badge&logo=whatsapp&logoColor=00d4ff)](tel:+919398188825)
+[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:maheswarikosaraju76@gmail.com)
+
 
 </div>
 
