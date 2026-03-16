@@ -8,34 +8,6 @@
 
 ---
 
-## `~ whoami`
-
-```yaml
-name     : Maheswari Kosaraju
-role     : DevOps Engineer · Cloud Engineer · SRE
-location : India 🇮🇳
-education: B.Tech CSE — RGUKT Andhra Pradesh | CGPA: 9.0 / 10
-
-stack:
-  cloud      : AWS (EC2, S3, Lambda, RDS, VPC, IAM, CloudWatch)
-  cicd       : Jenkins · GitHub Actions · Terraform IaC
-  containers : Docker · Kubernetes (Minikube)
-  monitoring : Prometheus · Grafana · CloudWatch · Log Analysis
-  scripting  : Python · Bash · YAML · Linux (Ubuntu / CentOS)
-  languages  : Java · C++ · JavaScript
-
-achievements:
-  - 🏆 All India Rank 10 — Coding Ninjas Premier League
-  - ⚡ LeetCode Rating: 1505 (Java)
-  - 🌍 Hacktoberfest 2025 Open Source Contributor
-  - ☁️ NPTEL Cloud Computing — Govt. of India
-
-status   : 🟢 Actively seeking DevOps · Cloud · SRE roles
-quote    : "Automate everything. Monitor obsessively. Ship reliably."
-```
-
----
-
 ## 🛠️ Tech Stack
 
 **☁️ Cloud — AWS**
