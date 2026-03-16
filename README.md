@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Automate+Everything.+Monitor+Obsessively.+Ship+Reliably.+%F0%9F%9A%80;AWS+%7C+EC2+%7C+S3+%7C+VPC+%7C+IAM+%7C+CloudWatch+%E2%98%81%EF%B8%8F;Terraform+IaC+%7C+100%25+Automated+Provisioning+%F0%9F%9B%A0%EF%B8%8F;Jenkins+%7C+GitHub+Actions+%7C+Docker+%7C+K8s+%E2%9A%99%EF%B8%8F;Prometheus+%7C+Grafana+%7C+Real-time+Monitoring+%F0%9F%93%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Hi+%F0%9F%91%8B+I%27m+Maheswari+%E2%80%94+DevOps+Engineer+%26+SRE;I+automate+cloud+infrastructure+on+AWS+%E2%98%81%EF%B8%8F;I+build+CI%2FCD+pipelines+from+scratch+%E2%9A%99%EF%B8%8F;I+containerize+apps+with+Docker+%2B+Kubernetes+%F0%9F%90%B3;I+monitor+systems+with+Prometheus+%2B+Grafana+%F0%9F%93%8A;I+provision+infra+as+code+with+Terraform+%F0%9F%9B%A0%EF%B8%8F;I+secure+cloud+with+zero-trust+IAM+%2B+VPC+%F0%9F%94%92)](https://git.io/typing-svg)
 
 </div>
 
@@ -59,9 +59,54 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+<!-- Row 1 — scrolling left -->
+<img src="https://skillicons.dev/icons?i=aws" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=terraform" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=jenkins" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=prometheus" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=grafana" height="40" />
+
+<!-- Row 2 — scrolling right -->
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ubuntu" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+
+</div>
+
+<!-- Animated marquee scroll using SVG -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,python,bash,java,linux,ubuntu,git,github,cpp&perline=8" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
+
+<div align="center">
+
+![aws](https://img.shields.io/badge/-AWS-0f2027?style=flat-square&logo=amazon-aws&logoColor=00d4ff)&nbsp;
+![docker](https://img.shields.io/badge/-Docker-203a43?style=flat-square&logo=docker&logoColor=00d4ff)&nbsp;
+![k8s](https://img.shields.io/badge/-Kubernetes-2c5364?style=flat-square&logo=kubernetes&logoColor=00d4ff)&nbsp;
+![terraform](https://img.shields.io/badge/-Terraform-0f2027?style=flat-square&logo=terraform&logoColor=00d4ff)&nbsp;
+![jenkins](https://img.shields.io/badge/-Jenkins-203a43?style=flat-square&logo=jenkins&logoColor=00d4ff)&nbsp;
+![gha](https://img.shields.io/badge/-GitHub_Actions-2c5364?style=flat-square&logo=github-actions&logoColor=00d4ff)&nbsp;
+![prometheus](https://img.shields.io/badge/-Prometheus-0f2027?style=flat-square&logo=prometheus&logoColor=00d4ff)&nbsp;
+![grafana](https://img.shields.io/badge/-Grafana-203a43?style=flat-square&logo=grafana&logoColor=00d4ff)&nbsp;
+![python](https://img.shields.io/badge/-Python-2c5364?style=flat-square&logo=python&logoColor=00d4ff)&nbsp;
+![bash](https://img.shields.io/badge/-Bash-0f2027?style=flat-square&logo=gnu-bash&logoColor=00d4ff)&nbsp;
+![linux](https://img.shields.io/badge/-Linux-203a43?style=flat-square&logo=linux&logoColor=00d4ff)&nbsp;
+![git](https://img.shields.io/badge/-Git-2c5364?style=flat-square&logo=git&logoColor=00d4ff)
+
+</div>
 
 ---
 
