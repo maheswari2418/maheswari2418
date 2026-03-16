@@ -1,8 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,50:0A66C2,100:6F42C1&height=210&section=header&text=Maheswari%20Kosaraju&fontSize=42&fontColor=2ECC71&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD%20%7C%20SRE&descAlignY=58&descSize=14&descColor=ffffff&animation=fadeIn"/>
-<div align="center">
-Show Image
-</div>
-<br/>
+
 <div align="center">
 
 <div align="center">
@@ -31,16 +28,16 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 
 ### ☁️ Cloud Platforms
 
-- **AWS:** EC2, S3, Lambda, RDS, VPC, IAM, CloudWatch
+ **AWS:** EC2, S3, Lambda, RDS, VPC, IAM, CloudWatch
 
 ### ⚙️ DevOps & CI/CD
 
-- Jenkins, GitHub Actions
-- Terraform, Infrastructure as Code (IaC)
+ Jenkins, GitHub Actions
+ Terraform, Infrastructure as Code (IaC)
 
 ### 🐳 Containers & Orchestration
 
-- Docker, Kubernetes (Minikube)
+ Docker, Kubernetes (Minikube)
 
 ### 📊 Monitoring & OS
 
