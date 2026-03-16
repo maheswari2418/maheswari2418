@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswari-kosaraju)
 [![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari2418)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-6F42C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarikosaraju76@gmail.com)
+[![Email](https://img.shields.io/badge/Email-6F42C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarikosaraju76@gmail.com)
 
 [![Views](https://komarev.com/ghpvc/?username=maheswari2418&label=Profile+Views&color=0A66C2&style=for-the-badge&labelColor=24292e)](https://github.com/maheswari2418)
 
@@ -64,44 +64,9 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 
 ---
 
-## 🚀 Featured Projects
 
-### 🏗️ [Automated Infrastructure Provisioning & Monitoring](https://github.com/maheswari2418/Infrastructure-Automation)
 
-![Terraform](https://img.shields.io/badge/Terraform-6F42C1?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0A66C2?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-24292e?style=flat-square&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-6F42C1?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-0A66C2?style=flat-square&logo=grafana&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-24292e?style=flat-square&logo=gnu-bash&logoColor=2ECC71)
 
-Full AWS infra (EC2, VPC, S3, IAM) provisioned via modular Terraform IaC. Dockerized deploys across dev / staging / prod. Real-time Prometheus + Grafana dashboards. CloudWatch alerts. Zero manual steps.
-
-```
-✅ 100% automated AWS provisioning — eliminated manual console config
-✅ Environment parity across dev / staging / prod via Docker
-✅ Real-time monitoring: CPU · memory · disk I/O · uptime
-✅ Zero-trust security: least-privilege IAM + VPC security groups
-```
-
----
-
-### 🔁 [CI/CD Pipeline Automation — Jenkins + Docker + AWS](https://github.com/maheswari2418)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-6F42C1?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0A66C2?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub%20Webhooks-24292e?style=flat-square&logo=github&logoColor=2ECC71)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-6F42C1?style=flat-square&logo=amazon-ec2&logoColor=white)
-
-Fully automated CI/CD pipeline: GitHub Webhook → Jenkins → Docker build → push → EC2 deploy. Push code, go get coffee. ☕
-
-```
-✅ Zero manual deployment effort — fully automated pipeline
-✅ Multi-stage: code checkout → Docker build → push → EC2 deploy
-✅ Zero-touch continuous delivery triggered on every push
-```
-
----
 
 ## 🏅 Certifications & Achievements
 
@@ -118,9 +83,8 @@ Fully automated CI/CD pipeline: GitHub Webhook → Jenkins → Docker build → 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=6F42C1&text_color=24292e&include_all_commits=true&count_private=true)
-&nbsp;
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=24292e)
+
+
 
 [![Streak](https://streak-stats.demolab.com?user=maheswari2418&theme=default&hide_border=true&background=ffffff&ring=0A66C2&fire=6F42C1&currStreakLabel=0A66C2&sideLabels=24292e&dates=24292e)](https://git.io/streak-stats)
 
