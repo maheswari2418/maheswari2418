@@ -12,39 +12,48 @@
 
 **☁️ Cloud — AWS**
 
-![AWS](https://img.shields.io/badge/AWS-0f2027?style=for-the-badge&logo=amazon-aws&logoColor=00d4ff)
-![EC2](https://img.shields.io/badge/EC2-203a43?style=for-the-badge&logo=amazon-ec2&logoColor=00d4ff)
-![S3](https://img.shields.io/badge/S3-203a43?style=for-the-badge&logo=amazon-s3&logoColor=00d4ff)
-![Lambda](https://img.shields.io/badge/Lambda-203a43?style=for-the-badge&logo=aws-lambda&logoColor=00d4ff)
-![RDS](https://img.shields.io/badge/RDS-2c5364?style=for-the-badge&logo=amazon-rds&logoColor=00d4ff)
-![VPC](https://img.shields.io/badge/VPC-2c5364?style=for-the-badge&logo=amazonaws&logoColor=00d4ff)
-![IAM](https://img.shields.io/badge/IAM-2c5364?style=for-the-badge&logo=amazonaws&logoColor=00d4ff)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
+  <img src="https://img.shields.io/badge/EC2-0f2027?style=for-the-badge&logo=amazon-ec2&logoColor=00d4ff" height="40"/>
+  <img src="https://img.shields.io/badge/S3-203a43?style=for-the-badge&logo=amazon-s3&logoColor=00d4ff" height="40"/>
+  <img src="https://img.shields.io/badge/Lambda-2c5364?style=for-the-badge&logo=aws-lambda&logoColor=00d4ff" height="40"/>
+  <img src="https://img.shields.io/badge/RDS-0f2027?style=for-the-badge&logo=amazon-rds&logoColor=00d4ff" height="40"/>
+  <img src="https://img.shields.io/badge/VPC-203a43?style=for-the-badge&logo=amazonaws&logoColor=00d4ff" height="40"/>
+  <img src="https://img.shields.io/badge/IAM-2c5364?style=for-the-badge&logo=amazonaws&logoColor=00d4ff" height="40"/>
+  <img src="https://img.shields.io/badge/CloudWatch-0f2027?style=for-the-badge&logo=amazonaws&logoColor=00d4ff" height="40"/>
+</p>
 
 **⚙️ DevOps, CI/CD & IaC**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-0f2027?style=for-the-badge&logo=jenkins&logoColor=00d4ff)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-203a43?style=for-the-badge&logo=github-actions&logoColor=00d4ff)
-![Terraform](https://img.shields.io/badge/Terraform-2c5364?style=for-the-badge&logo=terraform&logoColor=00d4ff)
-![Docker](https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=00d4ff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-203a43?style=for-the-badge&logo=kubernetes&logoColor=00d4ff)
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes"/>
+</p>
 
 **📊 Monitoring & Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-2c5364?style=for-the-badge&logo=prometheus&logoColor=00d4ff)
-![Grafana](https://img.shields.io/badge/Grafana-0f2027?style=for-the-badge&logo=grafana&logoColor=00d4ff)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-203a43?style=for-the-badge&logo=amazonaws&logoColor=00d4ff)
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus"/>
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/CloudWatch-0f2027?style=for-the-badge&logo=amazonaws&logoColor=00d4ff" height="40"/>
+</p>
 
 **💻 Languages, OS & VCS**
 
-![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=00d4ff)
-![Bash](https://img.shields.io/badge/Bash-203a43?style=for-the-badge&logo=gnu-bash&logoColor=00d4ff)
-![YAML](https://img.shields.io/badge/YAML-2c5364?style=for-the-badge&logo=yaml&logoColor=00d4ff)
-![Java](https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=openjdk&logoColor=00d4ff)
-![C++](https://img.shields.io/badge/C++-203a43?style=for-the-badge&logo=cplusplus&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-2c5364?style=for-the-badge&logo=javascript&logoColor=00d4ff)
-![Linux](https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=00d4ff)
-![Git](https://img.shields.io/badge/Git-203a43?style=for-the-badge&logo=git&logoColor=00d4ff)
-![GitHub](https://img.shields.io/badge/GitHub-2c5364?style=for-the-badge&logo=github&logoColor=00d4ff)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/YAML-2c5364?style=for-the-badge&logo=yaml&logoColor=00d4ff" height="40"/>
+</p>
 
 ---
 
