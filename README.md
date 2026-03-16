@@ -1,16 +1,28 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,50:0A66C2,100:6F42C1&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=42&fontColor=2ECC71&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD%20%7C%20SRE&descAlignY=58&descSize=14&descColor=ffffff&animation=fadeIn"/>
-<div align=center >
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=0A66C2&center=false&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I%27m+Maheswari+%E2%80%94+DevOps+Engineer+%26+SRE;I+automate+cloud+infrastructure+on+AWS+%E2%98%81%EF%B8%8F;I+build+CI%2FCD+pipelines+from+scratch+%E2%9A%99%EF%B8%8F;I+containerize+apps+with+Docker+%2B+Kubernetes+%F0%9F%90%B3;I+monitor+systems+with+Prometheus+%2B+Grafana+%F0%9F%93%8A;I+provision+infra+as+code+with+Terraform+%F0%9F%9B%A0%EF%B8%8F;I+secure+cloud+with+zero-trust+IAM+%2B+VPC+%F0%9F%94%92)](https://git.io/typing-svg)
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,50:0A66C2,100:6F42C1&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=44&fontColor=2ECC71&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20CI%2FCD%20%7C%20SRE&descAlignY=60&descSize=15&descColor=ffffff&animation=fadeIn"/>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=2ECC71&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I%27m+Maheswari+%E2%80%94+DevOps+Engineer+%26+SRE;%E2%98%81%EF%B8%8F+Automating+cloud+infrastructure+on+AWS;%E2%9A%99%EF%B8%8F+Building+CI%2FCD+pipelines+end-to-end;%F0%9F%90%B3+Containerizing+apps+with+Docker+%2B+Kubernetes;%F0%9F%93%8A+Monitoring+with+Prometheus+%2B+Grafana;%F0%9F%9B%A0%EF%B8%8F+Provisioning+infra+as+code+with+Terraform;%F0%9F%94%92+Securing+cloud+with+zero-trust+IAM+%2B+VPC)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswari-kosaraju)
+[![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari2418)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-6F42C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarikosaraju76@gmail.com)
+
+[![Views](https://komarev.com/ghpvc/?username=maheswari2418&label=Profile+Views&color=0A66C2&style=for-the-badge&labelColor=24292e)](https://github.com/maheswari2418)
+
+</div>
 
 ---
 
 ## 👋 About Me
 
-I am **Maheswari Kosaraju**, a DevOps Engineer fresher from India with hands-on experience in **CI/CD pipeline automation**, **Infrastructure as Code (IaC)** using Terraform, **Docker containerization**, and **AWS cloud provisioning**.
+I am **Maheswari Kosaraju**, a DevOps Engineer from India with hands-on experience in **CI/CD pipeline automation**, **Infrastructure as Code (IaC)** using Terraform, **Docker containerization**, and **AWS cloud provisioning**.
 
-I have built end-to-end automated infrastructure, deployed scalable monitoring systems, and implemented DevOps best practices using real-world projects.
+I have built end-to-end automated infrastructure, deployed scalable monitoring systems, and implemented DevOps best practices through real-world projects.
+
+🏆 **All India Rank 10** — Coding Ninjas Premier League &nbsp;|&nbsp; ⚡ **LeetCode 1505** &nbsp;|&nbsp; 🎓 **CGPA 9.0 / 10**
 
 > 🎯 **Career Goal:** Actively seeking **DevOps Engineer / Cloud Engineer / SRE** opportunities.
 
@@ -19,58 +31,74 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 ## 🧠 Skills & Technologies
 
 ### ☁️ Cloud Platforms
-
 - **AWS:** EC2, S3, Lambda, RDS, VPC, IAM, CloudWatch
 
 ### ⚙️ DevOps & CI/CD
-
 - Jenkins, GitHub Actions
 - Terraform, Infrastructure as Code (IaC)
 
 ### 🐳 Containers & Orchestration
-
 - Docker, Kubernetes (Minikube)
 
-### 📊 Monitoring & OS
-
+### 📊 Monitoring & Observability
 - Prometheus, Grafana, AWS CloudWatch, Log Analysis
+
+### 🐧 Operating Systems
 - Linux (Ubuntu / CentOS)
 
-### 💻 Languages & Version Control
+### 💻 Scripting & Languages
+- Python, Bash, YAML, Java, C++, JavaScript
 
-- Python, Bash, YAML
-- Java, C++, JavaScript
+### 🔀 Version Control
 - Git, GitHub
 
 ---
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,ansible,linux,python,bash,java,cpp,javascript,ubuntu,git,github" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,ansible,linux,python,bash,java,cpp,javascript,ubuntu,git,github&perline=9" />
+
+</div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-**[Infrastructure Automation](https://github.com/maheswari2418/Infrastructure-Automation)** — Full AWS infra (EC2, VPC, S3, IAM) via Terraform IaC. Dockerized deploys. Prometheus + Grafana dashboards. CloudWatch alerts. Zero manual steps.
+### 🏗️ [Automated Infrastructure Provisioning & Monitoring](https://github.com/maheswari2418/Infrastructure-Automation)
 
-`Terraform` `AWS` `Docker` `Prometheus` `Grafana` `Bash`
+![Terraform](https://img.shields.io/badge/Terraform-6F42C1?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0A66C2?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292e?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-6F42C1?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-0A66C2?style=flat-square&logo=grafana&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-24292e?style=flat-square&logo=gnu-bash&logoColor=2ECC71)
+
+Full AWS infra (EC2, VPC, S3, IAM) provisioned via modular Terraform IaC. Dockerized deploys across dev / staging / prod. Real-time Prometheus + Grafana dashboards. CloudWatch alerts. Zero manual steps.
 
 ```
 ✅ 100% automated AWS provisioning — eliminated manual console config
 ✅ Environment parity across dev / staging / prod via Docker
 ✅ Real-time monitoring: CPU · memory · disk I/O · uptime
-✅ Zero-trust security: least-privilege IAM + VPC rules
+✅ Zero-trust security: least-privilege IAM + VPC security groups
 ```
 
-**[CI/CD Pipeline Automation](https://github.com/maheswari2418)** — Jenkins + GitHub Webhooks → Docker build → push → EC2 deploy. Push code, coffee in hand. ☕
+---
 
-`Jenkins` `Docker` `GitHub Webhooks` `AWS EC2` `Shell Scripting`
+### 🔁 [CI/CD Pipeline Automation — Jenkins + Docker + AWS](https://github.com/maheswari2418)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-6F42C1?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0A66C2?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub%20Webhooks-24292e?style=flat-square&logo=github&logoColor=2ECC71)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-6F42C1?style=flat-square&logo=amazon-ec2&logoColor=white)
+
+Fully automated CI/CD pipeline: GitHub Webhook → Jenkins → Docker build → push → EC2 deploy. Push code, go get coffee. ☕
 
 ```
-✅ Zero manual deployment effort — fully automated
-✅ Multi-stage pipeline: checkout → build → push → deploy
-✅ Zero-touch continuous delivery on every push
+✅ Zero manual deployment effort — fully automated pipeline
+✅ Multi-stage: code checkout → Docker build → push → EC2 deploy
+✅ Zero-touch continuous delivery triggered on every push
 ```
 
 ---
@@ -80,29 +108,32 @@ I have built end-to-end automated infrastructure, deployed scalable monitoring s
 | 🏆 | Achievement | Issuer | Year |
 |:--|:-----------|:-------|:-----|
 | ☁️ | Cloud Computing Certification | NPTEL — Govt. of India | 2025 |
-| 🥇 | All India Rank **10** — Coding Ninjas Premier League | Coding Ninjas | 2025 |
-| ⚡ | LeetCode Rating **1505** (Java) | LeetCode | 2025 |
-| 🌍 | Open Source Contributor — Hacktoberfest | GitHub | 2025 |
+| 🥇 | **All India Rank 10** — Coding Ninjas Premier League | Coding Ninjas | 2025 |
+| ⚡ | **LeetCode Rating 1505** (Java) | LeetCode | 2025 |
+| 🌍 | Open Source Contributor — Hacktoberfest 2025 | GitHub | 2025 |
 
 ---
 
 ## 📈 Git Contribution Work
 
-![Stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=0A66C2&icon_color=6F42C1&text_color=24292e&include_all_commits=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=0A66C2&text_color=24292e)
+<div align="center">
 
-[![Streak](https://streak-stats.demolab.com?user=maheswari2418&theme=default&hide_border=false&background=ffffff&ring=0A66C2&fire=6F42C1&currStreakLabel=0A66C2&sideLabels=24292e&dates=24292e)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=6F42C1&text_color=24292e&include_all_commits=true&count_private=true)
+&nbsp;
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=24292e)
 
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=maheswari2418&bg_color=ffffff&color=0A66C2&line=6F42C1&point=2ECC71&area=true&area_color=0A66C2&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Streak](https://streak-stats.demolab.com?user=maheswari2418&theme=default&hide_border=true&background=ffffff&ring=0A66C2&fire=6F42C1&currStreakLabel=0A66C2&sideLabels=24292e&dates=24292e)](https://git.io/streak-stats)
 
-![Views](https://komarev.com/ghpvc/?username=maheswari2418&label=Profile+Views&color=0A66C2&style=for-the-badge&labelColor=24292e)
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=maheswari2418&bg_color=ffffff&color=0A66C2&line=6F42C1&point=2ECC71&area=true&area_color=EBF5FB&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswari-kosaraju)
-[![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari2418)
-[![Email](https://img.shields.io/badge/Email-maheswarikosaraju76%40gmail.com-6F42C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarikosaraju76@gmail.com)
 
+<div align="center">
 
-> *"Automate everything. Monitor obsessively. Ship reliably."*
+*"Automate everything. Monitor obsessively. Ship reliably."*
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6F42C1,50:0A66C2,100:24292e&height=120&section=footer"/>
