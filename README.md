@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d2b,60:00c853,100:00e5ff&height=220&section=header&text=Maheswari%20Kosaraju&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD%20Automation&descSize=15&descAlignY=58&descColor=a8ffdb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d2b,60:00c853,100:00e5ff&height=160&section=header&text=Maheswari%20Kosaraju&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD%20Automation&descSize=15&descAlignY=58&descColor=a8ffdb" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+👋 +I'm+Maheswari;DevOps+Engineer+%7C+Cloud+Infrastructure;AWS+%7C+Python+%7C+Terraform+%7C+Linux;Automating+Infrastructure+%26+Deployments;Building+Reliable+Systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Maheswari;DevOps+Engineer+%7C+Cloud+Infrastructure;AWS+%7C+Python+%7C+Terraform+%7C+Linux;Automating+Infrastructure+%26+Deployments;Building+Reliable+Systems.)](https://git.io/typing-svg)
 
 <br/>
 
