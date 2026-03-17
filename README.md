@@ -1,154 +1,172 @@
 <div align="center">
 
-```
-██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
-██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
-██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗
-██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║
-██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
-╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
-```
-
-# Maheswari Kosaraju
-
-### `$ terraform apply && deploy --zero-touch`
-
-**DevOps Engineer · Cloud Infrastructure · CI/CD Automation · Site Reliability**
-
-*I don't configure infrastructure — I eliminate the need to.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswari-kosaraju)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari2418)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarikosaraju76@gmail.com)
-[![Location](https://img.shields.io/badge/India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maheswari%20Kosaraju&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20I%20automate%20everything%20I%20touch&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<img align="right" width="340" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
-> **I build infrastructure that runs itself.**
+### `> whoami`
 
-I'm a DevOps Engineer who turned academic foundations into production-grade cloud systems — without waiting for a job to prove it. I've shipped fully automated AWS environments, eliminated manual deployment effort end-to-end, and wired real-time observability stacks that catch incidents *before* users do.
+Hey — I'm **Maheswari**, a DevOps Engineer from India who believes that if a human has to do it twice, a script should be doing it instead.
 
-My philosophy: if a human has to touch it more than once, it should be automated.
+I don't wait for permission to build. I've architected **production-grade AWS infrastructure**, engineered **zero-touch CI/CD pipelines**, and wired **real-time observability stacks** — all before landing my first job.
 
-- 🔩 **Automation-first** — every workflow ends with zero manual steps
-- ☁️ **AWS-native** — VPCs, IAM, EC2, Lambda, RDS, CloudWatch, S3
-- 📦 **Container everything** — Docker from dev to prod, no drift, no surprises
-- 🔍 **Observe before it breaks** — Prometheus + Grafana + CloudWatch as a unified signal layer
-- 🛡️ **Security by design** — least-privilege IAM, zero-trust VPC, audit-ready from day one
+My edge? I think in systems. I build for the 3am incident that nobody wants to debug.
+
+```bash
+$ cat maheswari.yaml
+---
+role: DevOps Engineer
+mindset: automate-first
+status: open_to_work
+superpower: "infrastructure that runs itself"
+current_obsession: Kubernetes at scale
+coffee_dependency: critical
+```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Expertise & Tools
+### ⚡ What I Actually Do
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🏗️  I write Terraform so no one touches the AWS console    │
+│  🐳  I containerize everything — dev = staging = prod        │
+│  🔭  I wire Prometheus + Grafana before someone pages me     │
+│  🔒  I treat IAM like a bouncer — strict list only           │
+│  🤖  I write the Bash script so you never have to            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+**Cloud & Infrastructure**
 
-### ⚙️ DevOps & IaC
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux&theme=dark&perline=5" /></a>
 
-### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch_Alarms-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+**CI/CD & Automation**
 
-### 💻 Languages & Platforms
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=jenkins,github,githubactions,bash,git&theme=dark&perline=5" /></a>
+
+**Languages**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark&perline=5" /></a>
+
+**Monitoring Stack**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Key Projects
+### 🏆 Projects That Actually Ship
 
-### 🔧 [Automated Infrastructure Provisioning & Monitoring System](https://github.com/maheswari2418/Infrastructure-Automation)
-`Terraform` `AWS` `Docker` `Prometheus` `Grafana` `CloudWatch` `Bash`
+<details>
+<summary><b>🔧 Automated Infrastructure Provisioning & Monitoring System</b> &nbsp;—&nbsp; click to expand</summary>
 
-- ⚡ **100% manual AWS configuration eliminated** — modular Terraform IaC scripts cut environment setup from hours to minutes across dev, staging, and prod
-- 🐳 **Zero configuration drift** — Dockerized containers enforced perfect environment parity, permanently ending "works on my machine" failures
-- 📈 **Proactive anomaly detection** — real-time Prometheus + Grafana stack monitoring CPU, memory, disk I/O, and service uptime before user impact
-- 🔒 **Audit-ready security posture** — least-privilege IAM, zero-trust VPC security groups, and CloudWatch structured log groups for full trail coverage
-- 🤖 **Fully hands-off post-provision** — Bash scripts automated EC2 bootstrapping, Docker daemon init, and health checks end-to-end
+<br/>
+
+> `Terraform` · `AWS (EC2, VPC, S3, IAM)` · `Docker` · `Prometheus` · `Grafana` · `CloudWatch` · `Bash`
+
+**The problem:** Every new environment meant hours of manual AWS console clicking, config drift, and the classic "works on my machine" lie.
+
+**What I built:**
+- ✅ Eliminated **100% of manual AWS configuration** — modular Terraform IaC, environment spun up in minutes not hours
+- ✅ **Zero config drift** — Dockerized all workloads, dev/staging/prod are identical by design
+- ✅ **Proactive observability** — Prometheus + Grafana tracking CPU, memory, disk I/O, uptime. Anomalies surface before users feel them
+- ✅ **Audit-ready security** — least-privilege IAM, zero-trust VPC security groups, full CloudWatch log trail
+- ✅ **Fully hands-off post-provision** — Bash automation handles EC2 bootstrap, Docker daemon init, health checks. Zero human steps
+
+📁 [View Repository →](https://github.com/maheswari2418/Infrastructure-Automation)
+
+</details>
+
+<details>
+<summary><b>🚀 CI/CD Pipeline Automation — Jenkins + Docker + AWS</b> &nbsp;—&nbsp; click to expand</summary>
+
+<br/>
+
+> `Jenkins` · `Docker` · `GitHub Webhooks` · `AWS EC2` · `Shell Scripting`
+
+**The problem:** Deployments were manual, error-prone, and required someone to be at a keyboard.
+
+**What I built:**
+- ✅ **Zero manual deployment effort** — push code, the pipeline does the rest. Every time, automatically
+- ✅ **GitHub webhook triggers** auto-fire the full build → test → deploy chain across all environments
+- ✅ **Multi-stage pipeline** — checkout → Docker build → registry push → EC2 deploy, deployment errors trending toward zero
+- ✅ Containerized all workloads for portable, reproducible deployments at scale
+
+</details>
 
 ---
 
-### 🚀 CI/CD Pipeline Automation with Jenkins, Docker & AWS
-`Jenkins` `Docker` `GitHub Webhooks` `AWS EC2` `Shell Scripting`
+### 📈 Wins & Highlights
 
-- 🎯 **Zero manual deployment effort** — fully automated CI/CD pipeline triggered on every code push, no human intervention required
-- 🔄 **Zero-touch continuous delivery** — GitHub webhook triggers auto-fire build → test → deploy across all environments
-- 📦 **Multi-stage pipeline** — code checkout → Docker image build → registry push → EC2 deployment, reducing release cycle time and driving error rate toward zero
-- 🏗️ **Standardized runtimes at scale** — containerized all workloads for portable, conflict-free deployments across AWS EC2
+| | |
+|---|---|
+| 🏅 | **Hacktoberfest 2025** — Merged PRs to live DevOps & cloud infra repos. Real code, global reviewers, real merges. |
+| 🎓 | **B.Tech CSE — CGPA 9.0/10** · Rajiv Gandhi University of Knowledge Technologies, AP |
+| ⚙️ | **Production infra before industry experience** — AWS + Terraform + monitoring systems built independently |
+| 🌍 | **Open source contributor** — code in the wild, not just on local |
 
 ---
 
-## 📈 Achievements & Highlights
+### 📚 Currently Learning
 
+```python
+learning = [
+    "Kubernetes at production scale — multi-cluster, RBAC, HPA",
+    "ArgoCD & GitOps workflows for declarative deployments",
+    "AWS Solutions Architect — designing for resilience",
+    "Advanced Terraform — modules, remote state, workspaces",
+]
+
+print("Always building. Never done.")
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  🏅  Hacktoberfest 2025 Open Source Contributor                  │
-│       Merged PRs to live DevOps & cloud infra repos             │
-│       Real code, reviewed and accepted by the global community   │
-│                                                                   │
-│  🎓  B.Tech — Computer Science & Engineering                     │
-│       CGPA: 9.0 / 10.0                                           │
-│       Rajiv Gandhi University of Knowledge Technologies, AP      │
-│                                                                   │
-│  ⚙️  Infrastructure shipped before first industry role           │
-│       Production-grade AWS + Terraform + Kubernetes systems       │
-│       built independently, not as coursework                     │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-![Maheswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=C9D1D9)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&count_private=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=maheswari2418&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=1f6feb&fire=ff6e6e&currStreakLabel=58a6ff" />
 
 </div>
 
 ---
 
-## 🌍 Let's Build Something
-
-I'm open to **DevOps roles**, **cloud infrastructure projects**, and **open source collaboration** — especially in automation, observability, and platform engineering.
-
-If you're building systems that need to scale without breaking, let's talk.
+### 🌍 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswari-kosaraju)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarikosaraju76@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore_My_Work-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari2418)
+I'm actively looking for **DevOps / Cloud Infrastructure roles** where I can build things that matter.
 
----
+If you're scaling systems, building platforms, or solving hard infrastructure problems — I want in.
 
-*"Infrastructure should be boring to operate and impressive to inspect."*
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=maheswari2418&color=FF9900&style=flat-square&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20—%20Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswari-kosaraju)
+[![Gmail](https://img.shields.io/badge/Email%20—%20Drop%20a%20line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarikosaraju76@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub%20—%20See%20the%20work-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari2418)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
