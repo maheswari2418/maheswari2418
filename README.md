@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d2b,60:00c853,100:00e5ff&height=160&section=header&text=Maheswari%20Kosaraju&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD%20Automation&descSize=15&descAlignY=58&descColor=a8ffdb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d2b,60:00c853,100:00e5ff&height=170&section=header&text=Maheswari%20Kosaraju&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD%20Automation&descSize=15&descAlignY=58&descColor=a8ffdb" width="100%"/>
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 
 I'm **Maheswari Kosaraju**, a DevOps Engineer from **Andhra Pradesh, India** passionate about building cloud infrastructure that **automates itself and scales without breaking.**
 
@@ -30,15 +30,7 @@ I don't wait for a job to start building. I've shipped **production-grade AWS en
 
 > 🎯 **Actively seeking** DevOps / Cloud Infrastructure Engineer opportunities.
 
-```yaml
-name       : Maheswari Kosaraju
-role       : DevOps Engineer
-location   : Andhra Pradesh, India
-status     : 🟢 Open to Work
-mindset    : automate-first | security-by-design
-superpower : infrastructure that runs itself
-learning   : Kubernetes at scale · GitOps · ArgoCD
-```
+
 
 <br clear="right"/>
 
