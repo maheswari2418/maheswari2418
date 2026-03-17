@@ -90,22 +90,7 @@ currently_learning = {
 print("🚀 Always building. Never done.")
 ```
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=00c853&text_color=a8ffdb&count_private=true&border_radius=12" />
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=maheswari2418&theme=tokyonight&hide_border=true&background=0D1117&stroke=00c853&ring=00e5ff&fire=00c853&currStreakLabel=00e5ff&sideLabels=a8ffdb&dates=8b949e" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=a8ffdb&border_radius=12" />
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
