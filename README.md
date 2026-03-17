@@ -59,23 +59,18 @@ Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git ·
 
 <div align="left">
 
-### Core DevOps
-<div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,bash,python,java,linux,git,prometheus&theme=dark&perline=12" />
-</div>
-
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark&perline=4" />
-
-<br/>
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-00c853?style=for-the-badge&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-00e5ff?style=for-the-badge&logo=amazonaws&logoColor=black)
-![IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS%20VPC-0A66C2?style=for-the-badge&logo=amazonaws&logoColor=white)
-
+<a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=bash&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=prometheus&theme=dark" /></a>
 </div>
 
 ---
