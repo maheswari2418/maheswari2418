@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Maheswari+👋;DevOps+Engineer+%7C+Cloud+Infrastructure;AWS+%7C+Python+%7C+Terraform+%7C+Linux;Automating+Infrastructure+%26+Deployments;Building+Reliable+Systems+from+Day+One.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+👋 +I'm+Maheswari;DevOps+Engineer+%7C+Cloud+Infrastructure;AWS+%7C+Python+%7C+Terraform+%7C+Linux;Automating+Infrastructure+%26+Deployments;Building+Reliable+Systems.)](https://git.io/typing-svg)
 
 <br/>
 
