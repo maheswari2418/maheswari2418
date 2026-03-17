@@ -60,10 +60,10 @@ Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git ·
 <div align="left">
 
 ### Core DevOps
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins&theme=dark&perline=15" />
+<div align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,bash,python,java,linux,git,prometheus&theme=dark&perline=12" />
+</div>
 
-### Automation & Version Control
-<img src="https://skillicons.dev/icons?i=github,githubactions,bash,git,linux&theme=dark&perline=5" />
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark&perline=4" />
