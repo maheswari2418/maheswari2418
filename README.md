@@ -57,7 +57,7 @@ Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git ·
 
 ## 🛠️ Tech Stack
 <div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,github,bash,python,java,linux,git,prometheus&theme=dark&perline=12" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,github,bash,python,java,linux,git,prometheus&theme=dark&perline=14" />
 </div>
 
 ---
