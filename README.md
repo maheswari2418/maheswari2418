@@ -60,20 +60,7 @@ Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git ·
 <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,github,bash,python,java,linux,git,prometheus&theme=dark&perline=14" />
 </div>
 
----
 
-## 📈 GitHub Contribution Activity
-
-<div align="left">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maheswari2418&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00e5ff&line=00c853&point=a8ffdb&area=true&area_color=003d2b" width="100%"/>
-
-</div>
-
----
-
-
----
 
 ## 🏅 Certifications & Achievements
 
