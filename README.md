@@ -64,7 +64,7 @@ Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git ·
 
 ## 📈 GitHub Contribution Activity
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheswari2418&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00e5ff&line=00c853&point=a8ffdb&area=true&area_color=003d2b" width="100%"/>
 
