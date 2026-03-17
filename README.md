@@ -57,22 +57,7 @@ Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git ·
 
 ## 🛠️ Tech Stack
 <div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,bash,python,java,linux,git,prometheus&theme=dark&perline=12" />
-</div>
-<div align="left">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=bash&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=prometheus&theme=dark" /></a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,github,bash,python,java,linux,git,prometheus&theme=dark&perline=12" />
 </div>
 
 ---
@@ -87,40 +72,6 @@ Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git ·
 
 ---
 
-## 📌 Key Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Infrastructure Automation
-[![Repo](https://img.shields.io/badge/View%20Repo-00c853?style=flat-square&logo=github&logoColor=white)](https://github.com/maheswari2418/Infrastructure-Automation)
-
-`Terraform` `AWS` `Docker` `Prometheus` `Grafana` `Bash`
-
-- ✅ **100% manual config eliminated** — Terraform IaC, hours → minutes
-- ✅ **Zero config drift** — Docker parity across all envs
-- ✅ **Proactive anomaly detection** — Prometheus + Grafana before users feel it
-- ✅ **Audit-ready security** — least-privilege IAM, zero-trust VPC
-- ✅ **Hands-off post-provision** — full Bash automation
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 CI/CD Pipeline Automation
-[![Repo](https://img.shields.io/badge/View%20Repo-00e5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/maheswari2418)
-
-`Jenkins` `Docker` `GitHub Webhooks` `AWS EC2` `Shell`
-
-- ✅ **Zero manual deployments** — push code → auto deploy
-- ✅ **Webhook-triggered** build → test → deploy chain
-- ✅ **Multi-stage pipeline** — checkout → build → push → deploy
-- ✅ **Deployment error rate → zero**
-- ✅ **Standardized runtimes** across all environments
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -131,7 +82,6 @@ Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git ·
 | 🏆 | Achievement |
 |:---:|---|
 | 🌍 | **Hacktoberfest 2025 Open Source Contributor** — Merged PRs to live DevOps & cloud infra repos, accepted by the global community |
-| 🎓 | **B.Tech CSE — CGPA 9.0 / 10.0** · RGUKT Andhra Pradesh · 2021–2025 |
 | ⚙️ | **Production-grade infrastructure built independently** — AWS + Terraform + Monitoring before first industry role |
 | 📚 | DSA · Operating Systems · Computer Networks · DBMS · SDLC |
 
