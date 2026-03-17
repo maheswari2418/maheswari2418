@@ -57,10 +57,10 @@ Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git ·
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Core DevOps
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins&theme=dark&perline=15" />
 
 ### Automation & Version Control
 <img src="https://skillicons.dev/icons?i=github,githubactions,bash,git,linux&theme=dark&perline=5" />
