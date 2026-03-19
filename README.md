@@ -8,12 +8,10 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=maheswari2418&color=00c853&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswari-kosaraju)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarikosaraju76@gmail.com)
-&nbsp;
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00c853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari2418)
 
 </div>
@@ -69,8 +67,7 @@ Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git ·
 | 🏆 | Achievement |
 |:---:|---|
 | 🌍 | **Hacktoberfest 2025 Open Source Contributor** — Merged PRs to live DevOps & cloud infra repos, accepted by the global community |
-| ⚙️ | **Production-grade infrastructure built independently** — AWS + Terraform + Monitoring before first industry role |
-| 📚 | DSA · Operating Systems · Computer Networks · DBMS · SDLC |
+
 
 </div>
 
