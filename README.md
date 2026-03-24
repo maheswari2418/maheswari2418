@@ -1,107 +1,254 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Maheswari</h1>
+<h3 align="center">Full Stack Developer | DevOps and Cloud Enthusiast | Open Source Contributor</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d2b,60:00c853,100:00e5ff&height=170&section=header&text=Maheswari%20Kosaraju&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD%20Automation&descSize=15&descAlignY=58&descColor=a8ffdb" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Maheswari;DevOps+Engineer+%7C+Cloud+Infrastructure;AWS+%7C+Python+%7C+Terraform+%7C+Linux;Automating+Infrastructure+%26+Deployments;Building+Reliable+Systems.)](https://git.io/typing-svg)
-
-<br/>
-
-
-</div>
+<p align="center">
+  Passionate about building scalable applications, automating workflows, and contributing to open-source.
+  participated in <b>Hacktoberfest 2025</b> and community-driven projects.
+</p>
 
 ---
 
-## 👋 About Me
 
 
 
-I'm **Maheswari Kosaraju**, a DevOps Engineer from **Andhra Pradesh, India** passionate about building cloud infrastructure that **automates itself and scales without breaking.**
-
-I don't wait for a job to start building. I've shipped **production-grade AWS environments**, **zero-touch CI/CD pipelines**, and **real-time observability stacks** — all independently.
-
-> 🎯 **Actively seeking** DevOps / Cloud Infrastructure Engineer opportunities.
 
 
 
-<br clear="right"/>
 
----
 
-## 🧠 Skills & Technologies
 
-### ☁️ Cloud Platforms
-**AWS** — EC2, S3, VPC, IAM, RDS, Lambda, CloudWatch, CloudTrail
 
-### ⚙️ DevOps & CI/CD
-Jenkins · GitHub Actions · GitHub Webhooks · Shell Scripting · CI/CD Pipeline Design & Automation
 
-### 🐳 Containers & Infrastructure as Code
-Docker · Kubernetes (Minikube) · Terraform (Modular IaC)
 
-### 📊 Monitoring & Observability
-Prometheus · Grafana · AWS CloudWatch · Log Analysis · Alerting · Incident Response
 
-### 💻 Languages & Platforms
-Bash · Python · Java · C++ · JavaScript · Linux (Ubuntu / CentOS) · Git · GitHub
+
+
+## 🚀 About Me
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- ⚙️ DevOps Enthusiast focused on automation & CI/CD  
+- ☁️ Experience with cloud deployment using **AWS**
+- 🧩 Strong foundation in **Java, DSA, SQL**
+- 🌱 Currently exploring **Cloud Infrastructure & Platform Engineering**
+- 🤝 Contributing to **Open Source & Hacktoberfest 2025**
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,github,bash,python,java,linux,git,prometheus&theme=dark&perline=14" />
-</div>
+## 🛠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<!-- AI / LLM Tools -->
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+## 🏅 Open Source Contributions
+### **🌐 Hacktoberfest 2025**
+- Contributed to beginner-friendly & intermediate open-source repositories  
+- Creating meaningful pull requests  
+- Improving documentation, code quality, an## 🌐 Open Source Contributions
+
+I actively contribute to open-source projects and participated in **Hacktoberfest 2025**.  
+I love collaborating, reviewing code, and improving community projects.
 
 
 
-## 🏅 Certifications & Achievements
+## 🎖️ Holopin Badges
 
-<div align="center">
+<h3 align="center">Holopin Badges</h3>
 
-| 🏆 | Achievement |
-|:---:|---|
-| 🌍 | **Hacktoberfest 2025 Open Source Contributor** — Merged PRs to live DevOps & cloud infra repos, accepted by the global community |
+<p align="center">
+  
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120px">
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="120px">
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="120px">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="120px">
+</p>
 
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
-
-## 📚 Currently Learning
-
-```python
-# What I'm exploring right now 🌱
-currently_learning = {
-    "☸️  Kubernetes"  : "Production scale — multi-cluster, RBAC, HPA, autoscaling",
-    "🔄  GitOps"      : "ArgoCD & declarative continuous deployments",
-    "☁️  AWS"         : "Solutions Architect — resilient, multi-AZ architectures",
-    "🏗️  Terraform"   : "Advanced — remote state, workspaces, reusable modules",
-}
-
-print("🚀 Always building. Never done.")
-```
-
-
 
 ## 🤝 Connect With Me
 
-<div align="center">
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maheswari%20Kosaraju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheswari-kosaraju)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-maheswarikosaraju76%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswarikosaraju76@gmail.com)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-maheswari2418-00c853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari2418)
 
-<br/>
 
-> ### *"Automate with precision. Build for reliability. Ship with confidence."* 🚀
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,40:00c853,70:003d2b,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>
+  <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:maheswari0937@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+
+
+</p>
+
+---
+
+⭐ *Code • Automate • Deploy • Contribute*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
