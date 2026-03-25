@@ -37,7 +37,7 @@ While many engineers solely focus on application code, I am obsessed with **how 
 </div>
 
 <div align="center">
-  <h2><Tech></h2>
+  <h2>Tech stack</h2>
   <marquee behavior="scroll" direction="left" scrollamount="12" onmouseover="this.stop()" onmouseout="this.start()">
     
     <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="52" style="margin-right: 15px;"/>
