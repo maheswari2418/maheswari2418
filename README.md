@@ -35,9 +35,9 @@ While many engineers solely focus on application code, I am obsessed with **how 
     <li><b>💻 Programming & OS:</b> Python, Bash Scripting, TypeScript, Linux Administration</li>
   </ul>
 </div>
-
+<h2>Tech Stack</h2>
 <div align="center">
-  <h2>Tech stack</h2>
+
   <marquee behavior="scroll" direction="left" scrollamount="12" onmouseover="this.stop()" onmouseout="this.start()">
     
     <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="52" style="margin-right: 15px;"/>
