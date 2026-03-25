@@ -1,17 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:8338EC,100:3A86FF&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20SRE%20%7C%20Platform%20Builder&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20SRE%20%7C%20Platform%20Builder&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FC466B&center=true&vCenter=true&width=600&lines=Architecting+Zero-Touch+Pipelines+%E2%9A%A1;Bridging+Code+and+Cloud+%E2%98%81%EF%B8%8F;Building+Systems+That+Scale+%F0%9F%9A%80;Automating+Infrastructure+as+Code+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Architecting+Zero-Touch+Pipelines+%E2%9A%A1;Bridging+Code+and+Cloud+%E2%98%81%EF%B8%8F;Building+Systems+That+Scale+%F0%9F%9A%80;Automating+Infrastructure+as+Code+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:maheswari0937@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_talk_automation-FC466B?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Let's_talk_automation-4FACFE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=maheswari2418&style=for-the-badge&color=8338EC&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=maheswari2418&style=for-the-badge&color=00F2FE&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
@@ -109,12 +109,12 @@ I am consistently pushing my boundaries to master production-grade reliability t
 ## 📊 Telemetry & Uptime (GitHub Stats)
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=maheswari2418&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=maheswari2418&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
 </div>
 
 <br>
@@ -122,6 +122,6 @@ I am consistently pushing my boundaries to master production-grade reliability t
 
 **“Automate with purpose. Build with reliability.”**<br><br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3A86FF,50:8338EC,100:FC466B&height=120&section=footer&text=Let%27s+Build+Something+Reliable&fontSize=20&fontColor=ffffff&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=120&section=footer&text=Let%27s+Build+Something+Reliable&fontSize=20&fontColor=ffffff&fontAlignY=65)
 
 </div>
