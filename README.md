@@ -18,7 +18,6 @@
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 ### 👋 About Me
 I am **Maheswari Kosaraju**, a DevOps & Cloud Engineer from Hyderabad, India 🇮🇳 with hands-on experience in AWS cloud infrastructure, CI/CD automation, containerization, and Infrastructure as Code. 
