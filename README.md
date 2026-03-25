@@ -46,7 +46,7 @@ While many engineers solely focus on application code, I am obsessed with **how 
 </div>
 
 <details>
-  <summary><b>🔍 Tap to expand my full technical directory</b></summary>
+  <p>Skills</p>
   <br>
   <ul>
     <li><b>☁️ Cloud & IaC:</b> AWS (EC2, S3, RDS, IAM, VPC), Terraform, CloudFormation</li>
