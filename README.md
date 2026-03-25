@@ -27,7 +27,6 @@ While many engineers solely focus on application code, I am obsessed with **how 
 *(Tools are just means to an end. Here is what I use to solve complex problems.)*
 <div>
   <h1>Skills</h1>
-  <br>
   <ul>
     <li><b>☁️ Cloud & IaC:</b> AWS (EC2, S3, RDS, IAM, VPC), Terraform, CloudFormation</li>
     <li><b>⚙️ CI/CD & Automation:</b> GitHub Actions, Jenkins, GitLab CI, Ansible</li>
@@ -35,7 +34,7 @@ While many engineers solely focus on application code, I am obsessed with **how 
     <li><b>💻 Programming & OS:</b> Python, Bash Scripting, TypeScript, Linux Administration</li>
   </ul>
 </div>
-
+<h2><Tech Stack></h2>
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12" onmouseover="this.stop()" onmouseout="this.start()">
     <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="52" style="margin-right: 15px;"/>
