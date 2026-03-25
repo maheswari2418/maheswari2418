@@ -4,13 +4,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A18CD1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Maheswari+%F0%9F%91%8B,+DevOps+Engineer;AWS,+CI%2FCD,+Docker,+Terraform,+Linux+%E2%9A%99%EF%B8%8F;Automating+Infrastructure+%26+Deployments+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
-
+<p>
+  <a href="mailto:maheswari0937@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_talk_automation-A18CD1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 The Elevator Pitch
 My focus is entirely on engineering resilient infrastructure, breaking (and fixing) deployment pipelines, and optimizing AWS architectures in real-world scenarios.
 
 While many engineers solely focus on application code, I am obsessed with **how that code is delivered, secured, and scaled in production environments.** I treat infrastructure as software and view every manual task as a bug waiting to be automated. 
@@ -55,15 +62,58 @@ While many engineers solely focus on application code, I am obsessed with **how 
 
 ---
 
-## 💼 Proof of Work (Impact Stories over "Tutorials")
+## 💼 Proof of Work (Featured Architectures)
 
 Managers don't hire for what you built; they hire for *why* you built it. Here is my approach to engineering:
 
-| Architecture | The Problem I Solved | The Business Value |
-| :--- | :--- | :--- |
-| **[Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)** <br> `GitHub Actions` `Docker` | **Problem:** Manual deployments are slow and human-error prone. <br> **Solution:** Engineered a declarative pipeline that automatically lints, tests, and deploys scalable Docker artifacts on `git push`. | **Value:** Promotes continuous integration allowing rapid, safe delivery without downtime. |
-| **[AWS Infrastructure via IaC](https://github.com/maheswari2418/Infrastructure-Automation)** <br> `Terraform` `AWS` | **Problem:** UI-click-ops leads to un-trackable "configuration drift". <br> **Solution:** Designed modular Terraform blueprints to provision highly available, secure AWS networking and compute clusters from scratch. | **Value:** Treats infrastructure as highly predictable code, ensuring cost-effective, reproducible environments across stages. |
-| **[Serverless Real-Time SaaS](https://github.com/maheswari2418/chat)** <br> `TypeScript` `Convex` `Clerk` | **Problem:** Understanding infrastructure means understanding the apps running on it. <br> **Solution:** Built a full-stack event-driven chat application with modern identity management and WebSockets. | **Value:** Demonstrates deep empathy for Software Engineers by actively debugging complex application state. |
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)
+**Problem:** Manual deployments are slow and human-error prone.<br>
+**Solution:** Engineered a declarative CI/CD pipeline triggering on code `push`. Automatically lints, tests, and deploys scalable Docker artifacts.<br>
+**Business Value:** Promotes continuous integration allowing rapid, safe delivery without downtime.
+
+`GitHub Actions` `Docker` `Shell`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ [AWS Infrastructure via IaC](https://github.com/maheswari2418/Infrastructure-Automation)
+**Problem:** UI-click-ops leads to un-trackable "configuration drift".<br>
+**Solution:** Designed modular Terraform blueprints to provision highly available, secure AWS networking and compute clusters.<br>
+**Business Value:** Treats infrastructure as predictable code, ensuring cost-effective, reproducible environments.
+
+`Terraform` `AWS (EC2/VPC)` `HCL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [Serverless Real-Time SaaS](https://github.com/maheswari2418/chat)
+**Idea:** Operational empathy requires understanding the apps running on your infra.<br>
+**Execution:** Built a full-stack event-driven chat application utilizing modern identity management (Clerk) and WebSockets (Convex).<br>
+**Value:** Deeply demonstrates debugging complex application state and modern Auth integrations.
+
+`TypeScript` `Convex` `SaaS Architecture`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ [Automated Node Cloud Deploy](https://github.com/maheswari2418/aws_project)
+**Idea:** Demonstrating fully automated compute provisioning and app mapping.<br>
+**Execution:** Combined HCL and user-data orchestration to boot EC2 instances, install dependencies from scratch, and start the runtime dynamically.<br>
+**Value:** Seamless convergence of Infrastructure provisioning and Application runtime setup.
+
+`AWS EC2` `Terraform` `Node.js`
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
