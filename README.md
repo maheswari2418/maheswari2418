@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%26%20Automation&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Building+the+Cloud,+One+Commit+at+a+Time+%E2%98%81%EF%B8%8F;Obsessed+with+CI%2FCD+and+Automation+%E2%9A%99%EF%B8%8F;Actively+Seeking+Junior%2FEntry-Level+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Ambitious+Fresher+Ready+to+Scale+%F0%9F%9A%80;Building+the+Cloud,+One+Commit+at+a+Time+%E2%98%81%EF%B8%8F;Obsessed+with+CI%2FCD+and+Automation+%E2%9A%99%EF%B8%8F;Actively+Seeking+Junior+DevOps+Roles+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Status-Actively_Interviewing-00C853?style=for-the-badge&logo=opsgenie&logoColor=white"/>
@@ -27,11 +27,11 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 ### 🚀 The Elevator Pitch
-Hi, I'm **Maheswari**. By day, I am a dedicated student; by night, I am a cloud-builder testing immutable infrastructure, breaking (and fixing) deployment pipelines, and optimizing AWS architecture. 
+Hi, I'm **Maheswari**. As a highly-motivated fresher, my focus isn't on theoretical knowledge—it's on engineering resilient infrastructure, breaking (and fixing) deployment pipelines, and optimizing AWS architectures in real-world scenarios.
 
-While most students are just learning *how* to write code, I am focused on **how code is delivered, secured, and scaled in the real world**. I treat infrastructure as software and view every manual task as a bug waiting to be automated. 
+While most entry-level candidates are just learning *how* to write code, I am focused on **how code is delivered, secured, and scaled in production environments.** I treat infrastructure as software and view every manual task as a bug waiting to be automated. 
 
-**I am ready to bring my passion, extreme curiosity, and automation-first mindset to a junior DevOps, Cloud, or Site Reliability role.**
+**I am ready to bring my rapid learning curve, hands-on architecture experience, and automation-first mindset to a junior DevOps, Cloud, or Site Reliability role.**
 
 <br clear="right"/>
 
@@ -39,7 +39,7 @@ While most students are just learning *how* to write code, I am focused on **how
 
 ## 🛠️ The Tech Ecosystem 
 
-*(Tools are just means to an end. Here is what I use to solve problems.)*
+*(Tools are just means to an end. Here is what I use to solve complex problems.)*
 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12" onmouseover="this.stop()" onmouseout="this.start()">
@@ -61,7 +61,7 @@ While most students are just learning *how* to write code, I am focused on **how
 </div>
 
 <details>
-  <summary><b>🔍 Tap to expand my full skills directory</b></summary>
+  <summary><b>🔍 Tap to expand my full technical directory</b></summary>
   <br>
   <ul>
     <li><b>☁️ Cloud & IaC:</b> AWS (EC2, S3, RDS, IAM, VPC), Terraform, CloudFormation</li>
@@ -87,20 +87,20 @@ Managers don't hire for what you built; they hire for *why* you built it. Here i
 
 ## 🧠 What I Bring to Your Team
 
-As a junior, I don't know absolutely everything yet—but here is what you are guaranteed to get when you hire me:
+As an entry-level engineer, I am a sponge for knowledge—but here is what you are guaranteed to get on Day 1 when you hire me:
 
 1. 📖 **Obsessive Documentation:** I document what I build. I believe an undocumented system is a broken system.
 2. 💰 **Cost-Conscious Cloud:** I don't just spin up giant EC2 instances. I understand the importance of rightsizing, tagging resources, and turning off development environments to save the company money.
-3. 🤝 **Extreme Ownership:** I take responsibility for my learning. Give me a broken pipeline or a vague architecture diagram, and I will figure it out, ask the right questions, and deliver a solution.
+3. 🤝 **Extreme Ownership:** I take absolute responsibility for my learning. Give me a broken pipeline or a vague architecture diagram, and I will figure it out, ask the right questions, and deliver a solution.
 
 ---
 
-## 🗺️ My Current Mission (Q2/Q3 2026)
+## 🗺️ Current Skilling & Certifications 
 
-I am constantly upskilling. Right now, my lab time is dedicated to:
+I am constantly expanding my toolkit. Right now, my lab time is dedicated to:
 *   🔷 **Mastering Kubernetes:** Currently studying for the **CKA (Certified Kubernetes Administrator)** exam to deeply understand cluster operations.
-*   📊 **Observability:** Setting up Prometheus and Grafana alerts on my personal hosted websites to catch failures before users do.
-*   🎃 **Open Source:** Proud participant in Hacktoberfest 2025, actively hunting for DevOps-related issues in public repositories.
+*   📊 **Observability:** Setting up Prometheus and Grafana alerts on my personal hosted environments to catch failures before users do.
+*   🎃 **Open Source:** Proud participant in Hacktoberfest 2025, actively hunting for infrastructure and automation issues in public repositories.
 
 ---
 
