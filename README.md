@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%26%20Automation&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,50:A18CD1,100:8FD3F4&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%26%20Automation&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi,+I+am+Maheswari 👋,+DevOps+Engineer;+AWS,CI%2FCD,+Docker,+Terraform,+Linux+%E2%9A%99%EF%B8%8F;Automating+Infrastructure+%26+Deployments+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A18CD1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Maheswari+%F0%9F%91%8B,+DevOps+Engineer;AWS,+CI%2FCD,+Docker,+Terraform,+Linux+%E2%9A%99%EF%B8%8F;Automating+Infrastructure+%26+Deployments+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Status-Actively_Searching-00C853?style=for-the-badge&logo=opsgenie&logoColor=white"/>
@@ -10,7 +10,7 @@
 </p>
 <p>
   <a href="mailto:maheswari0937@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire_Me-4FACFE?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Hire_Me-A18CD1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -116,6 +116,6 @@ I am constantly expanding my toolkit. Right now, my lab time is dedicated to:
 
 **“The best time to automate a task was yesterday. The second best time is today.”**<br><br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=120&section=footer&text=Let's%20Build%20The%20Future%20of%20Cloud&fontSize=20&fontColor=ffffff&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8FD3F4,50:A18CD1,100:FF9A9E&height=120&section=footer&text=Let's%20Build%20The%20Future%20of%20Cloud&fontSize=20&fontColor=ffffff&fontAlignY=65)
 
 </div>
