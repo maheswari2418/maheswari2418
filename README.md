@@ -9,22 +9,14 @@
   <img src="https://img.shields.io/badge/Profile_Build-Passing-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 <p>
-  <a href="mailto:maheswari0937@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire_Me-A18CD1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://your-resume-link-here.com">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-FF4B4B?style=for-the-badge&logo=reverbnation&logoColor=white"/>
-  </a>
+
+ 
+ 
 </p>
 
 </div>
 
 ---
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 ### 🚀 The Elevator Pitch
 My focus is entirely on engineering resilient infrastructure, breaking (and fixing) deployment pipelines, and optimizing AWS architectures in real-world scenarios.
@@ -32,8 +24,6 @@ My focus is entirely on engineering resilient infrastructure, breaking (and fixi
 While many engineers solely focus on application code, I am obsessed with **how that code is delivered, secured, and scaled in production environments.** I treat infrastructure as software and view every manual task as a bug waiting to be automated. 
 
 **I am ready to bring my hands-on cloud architecture experience, Linux administration skills, and automation-first mindset to your DevOps, Cloud, or Site Reliability team.**
-
-<br clear="right"/>
 
 ---
 
