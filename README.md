@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 The Elevator Pitch
+### 🚀 About Me
 My focus is entirely on engineering resilient infrastructure, breaking (and fixing) deployment pipelines, and optimizing AWS architectures in real-world scenarios.
 
 While many engineers solely focus on application code, I am obsessed with **how that code is delivered, secured, and scaled in production environments.** I treat infrastructure as software and view every manual task as a bug waiting to be automated. 
