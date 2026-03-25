@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A18CD1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Maheswari+%F0%9F%91%8B,+DevOps+Engineer;Automating+Infrastructure+%26+Deployments+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>AWS &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; Terraform &nbsp;|&nbsp; Linux</b>
+  <b><h1>AWS &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Terraform &nbsp;||&nbsp; Kubernetes &nbsp;|&nbsp; Linux</h1></b>
 </p>
 
 
