@@ -25,6 +25,16 @@ While many engineers solely focus on application code, I am obsessed with **how 
 ## 🛠️ The Tech Ecosystem 
 
 *(Tools are just means to an end. Here is what I use to solve complex problems.)*
+<div>
+  <p>Skills</p>
+  <br>
+  <ul>
+    <li><b>☁️ Cloud & IaC:</b> AWS (EC2, S3, RDS, IAM, VPC), Terraform, CloudFormation</li>
+    <li><b>⚙️ CI/CD & Automation:</b> GitHub Actions, Jenkins, GitLab CI, Ansible</li>
+    <li><b>🐳 Orchestration:</b> Docker, Kubernetes</li>
+    <li><b>💻 Programming & OS:</b> Python, Bash Scripting, TypeScript, Linux Administration</li>
+  </ul>
+</div>
 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12" onmouseover="this.stop()" onmouseout="this.start()">
@@ -45,16 +55,7 @@ While many engineers solely focus on application code, I am obsessed with **how 
   </marquee>
 </div>
 
-<details>
-  <p>Skills</p>
-  <br>
-  <ul>
-    <li><b>☁️ Cloud & IaC:</b> AWS (EC2, S3, RDS, IAM, VPC), Terraform, CloudFormation</li>
-    <li><b>⚙️ CI/CD & Automation:</b> GitHub Actions, Jenkins, GitLab CI, Ansible</li>
-    <li><b>🐳 Orchestration:</b> Docker, Kubernetes</li>
-    <li><b>💻 Programming & OS:</b> Python, Bash Scripting, TypeScript, Linux Administration</li>
-  </ul>
-</details>
+
 
 ---
 
