@@ -140,14 +140,14 @@ I am constantly expanding my toolkit. Right now, my lab time is dedicated to:
 <div align="center">
 <p>
   <a href="mailto:maheswari0937@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_talk_automation-A18CD1?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-</div>
+
 
 **“The best time to automate a task was yesterday. The second best time is today.”**<br><br>
 
