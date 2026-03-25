@@ -33,26 +33,43 @@ I don't just write code — I build secure, automated pipelines, deploy scalable
 
 ## 🧠 Skills & Technologies
 
+**☁️ Cloud Platforms**
+> **AWS:** EC2, S3, Lambda, EKS, RDS, CloudFront, Route53, IAM, ECR, Elastic Beanstalk, CodeBuild
+
+**⚙️ DevOps & CI/CD**
+> Jenkins, GitHub Actions, GitLab CI/CD, SonarQube, Nexus, Maven, Groovy, CI/CD Pipeline Design & Automation
+
+**🐳 Containers & IaC**
+> Docker, Kubernetes, Terraform, CloudFormation, Ansible
+
+**📊 Monitoring & OS**
+> AWS CloudWatch, Linux (Ubuntu, CentOS), Windows Server
+
+**💻 Scripting & Version Control**
+> Python, Bash, YAML, Git, GitHub, Bitbucket
+
+### 🛠️ Tech Stack
+
 <div align="center">
-
-### ☁️ Cloud Platforms & IaC
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### ⚙️ DevOps, Containers & CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 💻 Full Stack & Scripting
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
+  <marquee behavior="scroll" direction="left" scrollamount="12" onmouseover="this.stop()" onmouseout="this.start()">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/GitLab-330F55?style=for-the-badge&logo=gitlab&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" style="margin-right: 10px;"/>
+  </marquee>
 </div>
+
+*(Hover over the moving stack above to pause the animation)*
 
 ---
 
