@@ -39,7 +39,6 @@ While many engineers solely focus on application code, I am obsessed with **how 
 <div align="center">
 
   <marquee behavior="scroll" direction="left" scrollamount="12" onmouseover="this.stop()" onmouseout="this.start()">
-    z
     <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="52" style="margin-right: 15px;"/>
     <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52" style="margin-right: 15px;"/>
     <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="52" style="margin-right: 15px;"/>
