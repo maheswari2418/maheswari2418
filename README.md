@@ -138,19 +138,21 @@ I am constantly expanding my toolkit. Right now, my lab time is dedicated to:
 
 <br>
 <div align="center">
+
 <p>
   <a href="mailto:maheswari0937@gmail.com">
-    <img src="https://img.shields.io/badge/E?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-A18CD1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
-    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-
-
 **“The best time to automate a task was yesterday. The second best time is today.”**<br><br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8FD3F4,50:A18CD1,100:FF9A9E&height=120&section=footer&text=Let's%20Build%20The%20Future%20of%20Cloud&fontSize=20&fontColor=ffffff&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8FD3F4,50:A18CD1,100:FF9A9E&height=120&section=footer&text=Let%27s%20Build%20The%20Future%20of%20Cloud&fontSize=20&fontColor=ffffff&fontAlignY=65)
+
+
+
 
 </div>
