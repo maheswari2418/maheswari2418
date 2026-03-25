@@ -4,20 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A18CD1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Maheswari+%F0%9F%91%8B,+DevOps+Engineer;AWS,+CI%2FCD,+Docker,+Terraform,+Linux+%E2%9A%99%EF%B8%8F;Automating+Infrastructure+%26+Deployments+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
-<p>
-  <a href="mailto:maheswari0937@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_talk_automation-A18CD1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+
 
 </div>
 
 ---
 
-### 🚀 The Elevator Pitch
+### 🚀 About Me
 My focus is entirely on engineering resilient infrastructure, breaking (and fixing) deployment pipelines, and optimizing AWS architectures in real-world scenarios.
 
 While many engineers solely focus on application code, I am obsessed with **how that code is delivered, secured, and scaled in production environments.** I treat infrastructure as software and view every manual task as a bug waiting to be automated. 
@@ -145,6 +138,16 @@ I am constantly expanding my toolkit. Right now, my lab time is dedicated to:
 
 <br>
 <div align="center">
+<p>
+  <a href="mailto:maheswari0937@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_talk_automation-A18CD1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 **“The best time to automate a task was yesterday. The second best time is today.”**<br><br>
 
