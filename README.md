@@ -26,7 +26,7 @@ While many engineers solely focus on application code, I am obsessed with **how 
 
 *(Tools are just means to an end. Here is what I use to solve complex problems.)*
 <div>
-  <p>Skills</p>
+  <h1>Skills</h1>
   <br>
   <ul>
     <li><b>☁️ Cloud & IaC:</b> AWS (EC2, S3, RDS, IAM, VPC), Terraform, CloudFormation</li>
