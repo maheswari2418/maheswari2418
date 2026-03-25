@@ -2,10 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%26%20Automation&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Ambitious+Fresher+Ready+to+Scale+%F0%9F%9A%80;Building+the+Cloud,+One+Commit+at+a+Time+%E2%98%81%EF%B8%8F;Obsessed+with+CI%2FCD+and+Automation+%E2%9A%99%EF%B8%8F;Actively+Seeking+Junior+DevOps+Roles+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi,+I+am+Maheswari,+DevOps+Engineer+%F0%9F%91%8B;AWS,+CI%2FCD,+Docker,+Terraform,+Kubernetes,+Linux+%E2%9A%99%EF%B8%8F;Automating+Infrastructure+%26+Deployments+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Actively_Interviewing-00C853?style=for-the-badge&logo=opsgenie&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Actively_Searching-00C853?style=for-the-badge&logo=opsgenie&logoColor=white"/>
   <img src="https://img.shields.io/badge/Profile_Build-Passing-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 <p>
@@ -27,11 +27,11 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 ### 🚀 The Elevator Pitch
-Hi, I'm **Maheswari**. As a highly-motivated fresher, my focus isn't on theoretical knowledge—it's on engineering resilient infrastructure, breaking (and fixing) deployment pipelines, and optimizing AWS architectures in real-world scenarios.
+My focus is entirely on engineering resilient infrastructure, breaking (and fixing) deployment pipelines, and optimizing AWS architectures in real-world scenarios.
 
-While most entry-level candidates are just learning *how* to write code, I am focused on **how code is delivered, secured, and scaled in production environments.** I treat infrastructure as software and view every manual task as a bug waiting to be automated. 
+While many engineers solely focus on application code, I am obsessed with **how that code is delivered, secured, and scaled in production environments.** I treat infrastructure as software and view every manual task as a bug waiting to be automated. 
 
-**I am ready to bring my rapid learning curve, hands-on architecture experience, and automation-first mindset to a junior DevOps, Cloud, or Site Reliability role.**
+**I am ready to bring my hands-on cloud architecture experience, Linux administration skills, and automation-first mindset to your DevOps, Cloud, or Site Reliability team.**
 
 <br clear="right"/>
 
@@ -79,19 +79,19 @@ Managers don't hire for what you built; they hire for *why* you built it. Here i
 
 | Architecture | The Problem I Solved | The Business Value |
 | :--- | :--- | :--- |
-| **[Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)** <br> `GitHub Actions` `Docker` | **Problem:** Manual deployments are slow and human-error prone. <br> **Solution:** Engineered a declarative pipeline that automatically lints, tests, and deploys scalable Docker artifacts on `git push`. | **Value:** Proves I understand how to accelerate developer velocity safely without downtime. |
-| **[AWS Infrastructure via IaC](https://github.com/maheswari2418/Infrastructure-Automation)** <br> `Terraform` `AWS` | **Problem:** UI-click-ops leads to un-trackable "configuration drift". <br> **Solution:** Designed modular Terraform blueprints to provision highly available, secure AWS networking and compute clusters from scratch. | **Value:** Proves I can treat infrastructure as code, ensuring cost-effective, reproducible environments. |
-| **[Serverless Real-Time SaaS](https://github.com/maheswari2418/chat)** <br> `TypeScript` `Convex` `Clerk` | **Problem:** Understanding infrastructure means understanding the apps running on it. <br> **Solution:** Built a full-stack event-driven chat application with modern identity management and WebSockets. | **Value:** Proves I have empathy for Software Engineers because I can speak their language and debug their code. |
+| **[Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)** <br> `GitHub Actions` `Docker` | **Problem:** Manual deployments are slow and human-error prone. <br> **Solution:** Engineered a declarative pipeline that automatically lints, tests, and deploys scalable Docker artifacts on `git push`. | **Value:** Promotes continuous integration allowing rapid, safe delivery without downtime. |
+| **[AWS Infrastructure via IaC](https://github.com/maheswari2418/Infrastructure-Automation)** <br> `Terraform` `AWS` | **Problem:** UI-click-ops leads to un-trackable "configuration drift". <br> **Solution:** Designed modular Terraform blueprints to provision highly available, secure AWS networking and compute clusters from scratch. | **Value:** Treats infrastructure as highly predictable code, ensuring cost-effective, reproducible environments across stages. |
+| **[Serverless Real-Time SaaS](https://github.com/maheswari2418/chat)** <br> `TypeScript` `Convex` `Clerk` | **Problem:** Understanding infrastructure means understanding the apps running on it. <br> **Solution:** Built a full-stack event-driven chat application with modern identity management and WebSockets. | **Value:** Demonstrates deep empathy for Software Engineers by actively debugging complex application state. |
 
 ---
 
 ## 🧠 What I Bring to Your Team
 
-As an entry-level engineer, I am a sponge for knowledge—but here is what you are guaranteed to get on Day 1 when you hire me:
+When you bring me onto your engineering team, here is what you are guaranteed to get on Day 1:
 
 1. 📖 **Obsessive Documentation:** I document what I build. I believe an undocumented system is a broken system.
 2. 💰 **Cost-Conscious Cloud:** I don't just spin up giant EC2 instances. I understand the importance of rightsizing, tagging resources, and turning off development environments to save the company money.
-3. 🤝 **Extreme Ownership:** I take absolute responsibility for my learning. Give me a broken pipeline or a vague architecture diagram, and I will figure it out, ask the right questions, and deliver a solution.
+3. 🤝 **Extreme Ownership:** Give me a broken pipeline or a vague architecture diagram, and I will troubleshoot it, ask the right questions, and deliver a reliable solution.
 
 ---
 
