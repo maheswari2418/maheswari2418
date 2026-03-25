@@ -4,7 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A18CD1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Maheswari+%F0%9F%91%8B,+DevOps+Engineer;AWS,+CI%2FCD,+Docker,+Terraform,+Linux+%E2%9A%99%EF%B8%8F;Automating+Infrastructure+%26+Deployments+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
-
+<marquee behavior="scroll" direction="left" scrollamount="12" onmouseover="this.stop()" onmouseout="this.start()">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,aws,docker,kubernetes,terraform,linux,aws,docker,kubernetes,terraform,linux&theme=dark" height="52" />
+</marquee>
 
 </div>
 
