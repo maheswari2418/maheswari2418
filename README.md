@@ -31,7 +31,7 @@ While many engineers solely focus on application code, I am obsessed with **how 
     <li><b>☁️ Cloud & IaC:</b> AWS (EC2, S3, RDS, IAM, VPC), Terraform, CloudFormation</li>
     <li><b>⚙️ CI/CD & Automation:</b> GitHub Actions, Jenkins, GitLab CI, Ansible</li>
     <li><b>🐳 Orchestration:</b> Docker, Kubernetes</li>
-    <li><b>📊 Monitoring & OS:** AWS CloudWatch, Prometheus, Grafana, Linux (Ubuntu, CentOS), Windows Server
+    <li><b>📊 Monitoring & OS: AWS CloudWatch, Prometheus, Grafana, Linux (Ubuntu, CentOS), Windows Server
     <li><b>💻 Programming & OS:</b> Python, Bash Scripting, TypeScript, Linux Administration</li>
   </ul>
 </div>
@@ -39,6 +39,7 @@ While many engineers solely focus on application code, I am obsessed with **how 
 <div align="center">
   <h2><Tech Stack></h2>
   <marquee behavior="scroll" direction="left" scrollamount="12" onmouseover="this.stop()" onmouseout="this.start()">
+    <h2><Tech Stack></h2>
     <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="52" style="margin-right: 15px;"/>
     <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52" style="margin-right: 15px;"/>
     <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="52" style="margin-right: 15px;"/>
