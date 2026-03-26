@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,50:A18CD1,100:8FD3F4&height=200&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20and%20Automation&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A18CD1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Maheswari+%F0%9F%91%8B,+DevOps+Engineer;Automating+Infrastructure+%26+Deployments+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A18CD1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Maheswari+%F0%9F%91%8B;DevOps+Engineer;Automating+Infrastructure+%26+Deployments+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <p align="center">
   <b><h2>AWS &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Terraform &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; Linux</h2></b>
