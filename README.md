@@ -134,7 +134,7 @@ I am constantly expanding my toolkit. Right now, my lab time is dedicated to:
 
 ---
 
-## 📊 Telemetry & Uptime (GitHub Stats)
+## 📊 Statistics (GitHub Stats)
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
