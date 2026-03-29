@@ -22,7 +22,7 @@ While many engineers solely focus on application code, I am obsessed with **how 
 
 ---
 
-## 🛠️ The Tech Ecosystem 
+## 🛠️ Skills
 
 *(Tools are just means to an end. Here is what I use to solve complex problems.)*
 <div>
