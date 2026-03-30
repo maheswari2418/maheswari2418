@@ -62,7 +62,6 @@ While many engineers solely focus on application code, I am obsessed with **how 
 
 ## 💼 Proof of Work (Featured Architectures)
 
-Managers don't hire for what you built; they hire for *why* you built it. Here is my approach to engineering:
 
 <div align="center">
 <table>
