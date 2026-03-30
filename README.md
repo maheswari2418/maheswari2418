@@ -69,7 +69,7 @@ Managers don't hire for what you built; they hire for *why* you built it. Here i
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ [Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)
+### ⚙️ [CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)
 **Problem:** Manual deployments are slow and human-error prone.<br>
 **Solution:** Engineered a declarative CI/CD pipeline triggering on code `push`. Automatically lints, tests, and deploys scalable Docker artifacts.<br>
 **Business Value:** Promotes continuous integration allowing rapid, safe delivery without downtime.
