@@ -60,7 +60,7 @@ While many engineers solely focus on application code, I am obsessed with **how 
 
 ---
 
-## 💼 Proof of Work (Featured Architectures)
+## 💼 Projects
 
 
 <div align="center">
