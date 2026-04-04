@@ -32,7 +32,7 @@ While many engineers solely focus on application code, I am obsessed with **how 
     <li><b>⚙️ CI/CD & Automation:</b> GitHub Actions, Jenkins, GitLab CI, Ansible</li>
     <li><b>🐳 Orchestration:</b> Docker, Kubernetes</li>
     <li><b>📊 Monitoring & OS: AWS CloudWatch, Prometheus, Grafana, Linux (Ubuntu, CentOS), Windows Server
-    <li><b>💻 Programming & OS:</b> Python, Bash Scripting, TypeScript, Linux Administration</li>
+    <li><b>💻 Programming & OS:</b> Python, Bash Scripting, Linux Administration</li>
   </ul>
 </div>
 <h2>Tech Stack</h2>
