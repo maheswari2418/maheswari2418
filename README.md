@@ -49,32 +49,44 @@
 
 ## 💼 Featured DevOps Projects
 
-### 🛡️ **[Production-Grade Incident Management System](https://github.com/maheswari2418/mission_critical-IMS)**
-- Engineered a highly resilient backend implementing advanced API retry logic and debouncing to ensure stability under heavy traffic loads.
-- Designed Root Cause Analysis (RCA) validation workflows to reduce Mean Time To Resolution (MTTR).
-
-### 🏗️ **[Automated AWS Infrastructure via IaC](https://github.com/maheswari2418/Infrastructure-Automation)**
-- Built modular Terraform blueprints to provision secure AWS VPCs, public/private subnets, and EC2 clusters.
-- Eliminated configuration drift and reduced infrastructure deployment time from hours to minutes.
-
-### ⚙️ **[Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)**
-- Engineered a declarative CI/CD pipeline using GitHub Actions that automatically lints, tests, and builds Docker artifacts upon code push.
-- Enabled rapid, safe continuous integration with zero-downtime application rollouts.
-
-### 🔄 **[CI/CD Containerized Deployment](https://github.com/maheswari2418/CI-CD)**
-- Built a fully containerized CI/CD workflow with Docker, automated health checks, and production deployment scripts.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/maheswari2418/mission_critical-IMS">Incident Management System</a></h3>
+      <p><code>Site Reliability</code> <code>Node.js</code> <code>Resilience</code></p>
+      <p>Engineered a highly resilient backend with API retry logic, debouncing, and RCA validation workflows to reduce MTTR.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ <a href="https://github.com/maheswari2418/Infrastructure-Automation">AWS Infrastructure via IaC</a></h3>
+      <p><code>Terraform</code> <code>AWS</code> <code>Bash</code></p>
+      <p>Modular Terraform blueprints provisioning secure AWS VPCs, subnets, and EC2 clusters. Cuts deployment from hours to minutes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/maheswari2418/ci-cd-pipeline">Zero-Touch CI/CD Engine</a></h3>
+      <p><code>GitHub Actions</code> <code>Docker</code> <code>Linux</code></p>
+      <p>Declarative CI/CD pipeline that automatically lints, tests, and deploys Docker artifacts on code push with zero downtime.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 <a href="https://github.com/maheswari2418/CI-CD">CI/CD Containerized Deploy</a></h3>
+      <p><code>Docker</code> <code>Nginx</code> <code>Health Checks</code></p>
+      <p>Fully containerized CI/CD workflow with Docker, automated health checks, and production deployment scripts.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheswari2418&theme=github_dark" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheswari2418&theme=github_dark" width="70%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheswari2418&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheswari2418&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheswari2418&theme=github_dark" width="34%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheswari2418&theme=github_dark" width="34%" />
 </div>
 
 ---
