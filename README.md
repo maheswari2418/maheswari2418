@@ -49,30 +49,32 @@
 
 ## 💼 Featured DevOps Projects
 
-<p align="center">
-  <a href="https://github.com/maheswari2418/mission_critical-IMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=mission_critical-IMS&theme=github_dark&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/maheswari2418/Infrastructure-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=Infrastructure-Automation&theme=github_dark&hide_border=true" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/maheswari2418/ci-cd-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=ci-cd-pipeline&theme=github_dark&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/maheswari2418/CI-CD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=CI-CD&theme=github_dark&hide_border=true" width="48%" />
-  </a>
-</p>
+### 🛡️ **[Production-Grade Incident Management System](https://github.com/maheswari2418/mission_critical-IMS)**
+- Engineered a highly resilient backend implementing advanced API retry logic and debouncing to ensure stability under heavy traffic loads.
+- Designed Root Cause Analysis (RCA) validation workflows to reduce Mean Time To Resolution (MTTR).
+
+### 🏗️ **[Automated AWS Infrastructure via IaC](https://github.com/maheswari2418/Infrastructure-Automation)**
+- Built modular Terraform blueprints to provision secure AWS VPCs, public/private subnets, and EC2 clusters.
+- Eliminated configuration drift and reduced infrastructure deployment time from hours to minutes.
+
+### ⚙️ **[Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)**
+- Engineered a declarative CI/CD pipeline using GitHub Actions that automatically lints, tests, and builds Docker artifacts upon code push.
+- Enabled rapid, safe continuous integration with zero-downtime application rollouts.
+
+### 🔄 **[CI/CD Containerized Deployment](https://github.com/maheswari2418/CI-CD)**
+- Built a fully containerized CI/CD workflow with Docker, automated health checks, and production deployment scripts.
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=maheswari2418&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheswari2418&theme=github_dark" width="98%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheswari2418&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheswari2418&theme=github_dark" width="48%" />
 </div>
 
 ---
