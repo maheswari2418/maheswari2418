@@ -44,7 +44,23 @@
 ### AI / LLM Tools
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FCC624?style=for-the-badge&logo=claudee&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+## 💼 Featured DevOps Projects
+
+### 🛡️ **[Production-Grade Incident Management System](https://github.com/maheswari2418)**
+- Engineered a highly resilient backend implementing advanced API retry logic and debouncing to ensure stability under heavy traffic loads.
+- Designed Root Cause Analysis (RCA) validation workflows to reduce Mean Time To Resolution (MTTR).
+
+### 🏗️ **[Automated AWS Infrastructure via IaC](https://github.com/maheswari2418/Infrastructure-Automation)**
+- Built modular Terraform blueprints to provision secure AWS VPCs, public/private subnets, and EC2 clusters.
+- Eliminated configuration drift and reduced infrastructure deployment time from hours to minutes.
+
+### ⚙️ **[Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)**
+- Engineered a declarative CI/CD pipeline using GitHub Actions that automatically lints, tests, and builds Docker artifacts upon code push.
+- Enabled rapid, safe continuous integration with zero-downtime application rollouts.
 
 ---
 
@@ -72,7 +88,6 @@ I actively contribute to open-source infrastructure projects and participated he
 
 ---
 
- 
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
@@ -82,7 +97,9 @@ I actively contribute to open-source infrastructure projects and participated he
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 <br>
+
 <p align="center">
   ⭐ <i>Automate • Deploy • Monitor • Scale</i> ⭐
 </p>
