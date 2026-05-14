@@ -1,123 +1,88 @@
-<div align="center">
-
-<!-- Clean, Cyber-Themed Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Site%20Reliability%20&%20DevOps%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<br>
+<h1 align="center">👋 Hi, I'm Maheswari</h1>
+<h3 align="center">Full Stack Developer | DevOps and Cloud Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1000&color=4364F7&center=true&vCenter=true&width=600&lines=Architecting+Highly+Available+Systems;Deploying+Zero-Downtime+Pipelines;Treating+Infrastructure+as+Code;Automating+Manual+Toil" alt="Typing SVG" />
+  Passionate about building scalable applications, automating workflows, and contributing to open-source.
+  participated in <b>Hacktoberfest 2025</b> and community-driven projects.
 </p>
 
+---
+
+## 🚀 About Me
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- ⚙️ DevOps Enthusiast focused on automation & CI/CD  
+- ☁️ Experience with cloud deployment using **AWS**
+- 🧩 Strong foundation in **Java, DSA, SQL**
+- 🌱 Currently exploring **Cloud Infrastructure & Platform Engineering**
+- 🤝 Contributing to **Open Source & Hacktoberfest 2025**
+
+---
+
+## 🛠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<!-- AI / LLM Tools -->
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+## 🏅 Open Source Contributions
+### **🌐 Hacktoberfest 2025**
+- Contributing to beginner-friendly & intermediate open-source repositories  
+- Creating meaningful pull requests  
+- Improving documentation, code quality, an## 🌐 Open Source Contributions
+
+I actively contribute to open-source projects and participated in **Hacktoberfest 2025**.  
+I love collaborating, reviewing code, and improving community projects.
+
+
+
+## 🎖️ Holopin Badges
+
+<h3 align="center">Holopin Badges</h3>
+
 <p align="center">
+
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120px">
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="120px">
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="120px">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="120px">
+</p>
+
+
+
+
+
+---
+
+## 🤝 Connect With Me
+<p>
   <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0052D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:maheswari2418@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-6FB1FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:maheswari0937@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<br><br>
-
-<!-- About Section -->
-<h3 align="center">❝ Bridging the gap between code and the cloud. ❞</h3>
-<p align="center" style="color: #8b949e;">
-  I am a Cloud & SRE specialist obsessed with system resilience.<br>
-  I build highly available AWS infrastructure, containerize microservices, and engineer <br>
-  CI/CD pipelines that deploy safely and continuously.
-</p>
-
-<br>
-
 ---
 
-<br>
-
-<!-- Tech Stack (Uniform, sleek "Flat Square" badges) -->
-## 🛠️ The Tech Ecosystem
-
-<div align="center">
-
-**`[ CLOUD & IaC ]`**<br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
-
-<br>
-
-**`[ CI/CD & CONTAINERS ]`**<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-<br>
-
-**`[ OBSERVABILITY & SCRIPTING ]`**<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 📂 Architecture & Projects
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Production-Grade IMS</h3>
-      <b>Focus:</b> <code>Site Reliability</code> <code>Resilience</code>
-      <br><br>
-      Engineered a highly resilient backend for an Incident Management System. Implemented advanced API retry logic, debouncing, and RCA validation workflows to drastically reduce MTTR during system outages.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏗️ AWS Infra via IaC</h3>
-      <b>Focus:</b> <code>Terraform</code> <code>AWS (VPC)</code>
-      <br><br>
-      Eliminated "configuration drift" by designing modular Terraform blueprints. Provisioned highly available, secure AWS networking and compute clusters as predictable, reproducible code.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br>
-      <h3>⚙️ Zero-Touch CI/CD</h3>
-      <b>Focus:</b> <code>GitHub Actions</code> <code>Docker</code>
-      <br><br>
-      Engineered a declarative CI/CD pipeline triggering on code push. Automatically lints, tests, and deploys scalable Docker artifacts, promoting continuous integration and zero-downtime deployments.
-    </td>
-    <td width="50%" valign="top">
-      <br>
-      <h3>🏅 Hacktoberfest 2025</h3>
-      <b>Focus:</b> <code>Open Source</code> <code>Community</code>
-      <br><br>
-      Actively hunt for infrastructure and automation issues in public repositories. Contributed to multiple beginner-friendly and intermediate open-source tools to improve CI/CD and documentation.
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-## 📊 Operations Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=nord&hide_border=true&title_color=4364F7&text_color=5c6166&icon_color=6FB1FC&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheswari2418&theme=nord&hide_border=true&title_color=4364F7&text_color=5c6166&icon_color=6FB1FC" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FB1FC,50:4364F7,100:0052D4&height=120&section=footer&text=Code%20•%20Automate%20•%20Deploy%20•%20Scale&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
-</div>
+⭐ *Code • Automate • Deploy • Contribute*
