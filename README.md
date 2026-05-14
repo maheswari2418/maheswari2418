@@ -50,17 +50,33 @@
 
 ## 💼 Featured DevOps Projects
 
-### 🛡️ **[Production-Grade Incident Management System](https://github.com/maheswari2418)**
-- Engineered a highly resilient backend implementing advanced API retry logic and debouncing to ensure stability under heavy traffic loads.
-- Designed Root Cause Analysis (RCA) validation workflows to reduce Mean Time To Resolution (MTTR).
+<p align="center">
+  <a href="https://github.com/maheswari2418/Incident-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=Incident-Management-System&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&bg_color=0d1117&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/maheswari2418/Infrastructure-Automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=Infrastructure-Automation&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&bg_color=0d1117&hide_border=true" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/maheswari2418/ci-cd-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=ci-cd-pipeline&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&bg_color=0d1117&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/maheswari2418/aws_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=aws_project&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&bg_color=0d1117&hide_border=true" width="48%" />
+  </a>
+</p>
 
-### 🏗️ **[Automated AWS Infrastructure via IaC](https://github.com/maheswari2418/Infrastructure-Automation)**
-- Built modular Terraform blueprints to provision secure AWS VPCs, public/private subnets, and EC2 clusters.
-- Eliminated configuration drift and reduced infrastructure deployment time from hours to minutes.
+*(Note: Ensure the repo names in the links above exactly match the repositories on your GitHub!)*
 
-### ⚙️ **[Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)**
-- Engineered a declarative CI/CD pipeline using GitHub Actions that automatically lints, tests, and builds Docker artifacts upon code push.
-- Enabled rapid, safe continuous integration with zero-downtime application rollouts.
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff&icon_color=0077B5&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheswari2418&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff&icon_color=0077B5" width="48%" />
+</div>
 
 ---
 
@@ -77,7 +93,7 @@ I actively contribute to open-source infrastructure projects and participated he
 
 ## 🎖️ Holopin Badges
 
-<h3 align="center">Hacktoberfest 2025 Progression</h3>
+<h3 align="center">Hacktoberfest Progression</h3>
 
 <p align="center">
   <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="120px">
