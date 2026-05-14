@@ -40,7 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- AI / LLM Tools -->
 ### AI / LLM Tools
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -51,31 +50,29 @@
 ## 💼 Featured DevOps Projects
 
 <p align="center">
-  <a href="https://github.com/maheswari2418/Incident-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=Incident-Management-System&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&bg_color=0d1117&hide_border=true" width="48%" />
+  <a href="https://github.com/maheswari2418/mission_critical-IMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=mission_critical-IMS&theme=github_dark&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/maheswari2418/Infrastructure-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=Infrastructure-Automation&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&bg_color=0d1117&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=Infrastructure-Automation&theme=github_dark&hide_border=true" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/maheswari2418/ci-cd-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=ci-cd-pipeline&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&bg_color=0d1117&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=ci-cd-pipeline&theme=github_dark&hide_border=true" width="48%" />
   </a>
-  <a href="https://github.com/maheswari2418/aws_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=aws_project&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&bg_color=0d1117&hide_border=true" width="48%" />
+  <a href="https://github.com/maheswari2418/CI-CD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari2418&repo=CI-CD&theme=github_dark&hide_border=true" width="48%" />
   </a>
 </p>
-
-*(Note: Ensure the repo names in the links above exactly match the repositories on your GitHub!)*
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff&icon_color=0077B5&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheswari2418&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff&icon_color=0077B5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=maheswari2418&theme=github-dark-blue&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -85,8 +82,8 @@
 I actively contribute to open-source infrastructure projects and participated heavily in **Hacktoberfest 2025**. I love collaborating, reviewing code, and improving community projects.
 
 ### **🌐 Hacktoberfest 2025**
-- Contributed to beginner-friendly & intermediate open-source repositories.  
-- Created meaningful pull requests fixing pipeline configurations.  
+- Contributed to beginner-friendly & intermediate open-source repositories.
+- Created meaningful pull requests fixing pipeline configurations.
 - Improved technical documentation, automation scripts, and testing coverage.
 
 ---
