@@ -44,7 +44,7 @@
 ### AI / LLM Tools
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-FCC624?style=for-the-badge&logo=claudee&logoColor=black)
 
 ---
 
