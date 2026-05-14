@@ -19,7 +19,7 @@
 
 <br><br><br>
 
-<!-- About Section (Centered & Minimalist) -->
+<!-- About Section -->
 ### ❝ I don't just write code; I ensure it survives in production. ❞
 <p align="center" style="color: #8b949e;">
   As a Cloud & SRE specialist, my philosophy is simple: <b>Automate everything.</b><br>
@@ -29,7 +29,7 @@
 
 <br><br>
 
-<!-- Tech Stack (Using ultra-clean SkillIcons instead of bulky badges) -->
+<!-- Tech Stack -->
 ## ⚙️ Engineering Stack
 
 <br>
@@ -40,7 +40,7 @@
 
 <br><br><br>
 
-<!-- Projects Gallery (Card UI illusion) -->
+<!-- Projects Gallery -->
 ## 📂 Featured Architectures
 
 </div>
@@ -60,7 +60,7 @@
     <td width="50%" valign="top" style="padding: 15px;">
       <h3 align="center">🏗️ AWS Infra via IaC</h3>
       <p align="center">
-        <i>Terraform • AWS • HCL</i>
+        <i>Terraform • AWS • Bash</i>
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=terraform,aws,bash&theme=dark" height="30" />
@@ -80,14 +80,14 @@
       <p>Engineered a declarative CI/CD pipeline triggering on code push. Automatically lints, tests, and deploys scalable Docker artifacts, promoting continuous integration.</p>
     </td>
     <td width="50%" valign="top" style="padding: 15px;">
-      <h3 align="center">💬 Serverless SaaS</h3>
+      <h3 align="center">☁️ Cloud-Native E-Commerce</h3>
       <p align="center">
-        <i>TypeScript • WebSockets • Auth</i>
+        <i>Jenkins • Docker • Auto Scaling</i>
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=ts,react,vite&theme=dark" height="30" />
+        <img src="https://skillicons.dev/icons?i=jenkins,kubernetes,aws&theme=dark" height="30" />
       </p>
-      <p>Built a full-stack event-driven chat application utilizing modern identity management and WebSockets, demonstrating deep understanding of complex application state.</p>
+      <p>Architected and deployed a containerized platform on AWS EC2. Configured Auto Scaling and S3 object storage to ensure 99.9% availability during traffic spikes.</p>
     </td>
   </tr>
 </table>
