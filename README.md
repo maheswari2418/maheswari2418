@@ -1,112 +1,56 @@
-<div align="center">
+# Maheswari Kosaraju
+**DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Infrastructure**
 
-<!-- Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,50:A18CD1,100:8FD3F4&height=220&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Site%20Reliability%20Engineer%20(SRE)&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/maheswari-kosaraju-59040028a)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red.svg?logo=gmail&style=flat-square)](mailto:maheswari0937@gmail.com)
 
-<br>
+I am a Cloud & DevOps Engineer focused on bridging the gap between development and operations. I specialize in architecting highly available AWS infrastructure, containerizing microservices, and building zero-downtime CI/CD pipelines. I treat infrastructure as code and view every manual task as a bug waiting to be automated.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=A18CD1&center=true&vCenter=true&width=600&lines=Building+Resilient+Cloud+Architecture;Automating+Zero-Downtime+Deployments;Reducing+Manual+Toil+to+Zero;Treating+Infrastructure+as+Software" alt="Typing SVG" />
+---
 
-<br><br>
+### 🛠️ Technical Arsenal
 
-<a href="mailto:maheswari0937@gmail.com">
-  <img src="https://img.shields.io/badge/Connect_via_Email-121212?style=for-the-badge&logo=gmail&logoColor=white&border=A18CD1" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white&border=A18CD1" alt="LinkedIn"/>
-</a>
+*   **Cloud Providers:** AWS (EC2, S3, RDS, VPC, IAM, Auto Scaling)
+*   **Infrastructure as Code:** Terraform, CloudFormation
+*   **Containerization & Orchestration:** Docker, Docker Compose, Kubernetes
+*   **CI/CD & Automation:** GitHub Actions, Jenkins, Ansible
+*   **Observability:** Prometheus, Grafana, AWS CloudWatch
+*   **Systems & Scripting:** Linux Administration (Ubuntu/CentOS), Bash, Python, Node.js
 
-<br><br><br>
+---
 
-<!-- About Section -->
-### ❝ I don't just write code; I ensure it survives in production. ❞
-<p align="center" style="color: #8b949e;">
-  As a Cloud & SRE specialist, my philosophy is simple: <b>Automate everything.</b><br>
-  I bridge the gap between development and operations by engineering highly available AWS infrastructure, <br>
-  containerizing microservices, and building CI/CD pipelines that deploy with zero downtime.
-</p>
+### 💻 Featured Open Source & Architectures
 
-<br><br>
+#### [Incident Management System](https://github.com/maheswari2418)
+*A production-grade SRE platform focused on resilience and minimal MTTR.*
+*   **Architecture:** Implemented advanced API retry logic and debouncing to ensure backend stability under catastrophic traffic loads.
+*   **Tech Stack:** Node.js, Resilience Engineering, Docker.
+*   **Impact:** Validates RCA workflows to improve reporting accuracy and system recovery times.
 
-<!-- Tech Stack -->
-## ⚙️ Engineering Stack
+#### [Automated AWS Infrastructure via IaC](https://github.com/maheswari2418/Infrastructure-Automation)
+*A secure, reproducible cloud networking and compute blueprint.*
+*   **Architecture:** Modular Terraform provisioning of VPCs, public/private subnets, and EC2 clusters, eliminating UI configuration drift.
+*   **Tech Stack:** Terraform, AWS, HCL, Bash.
+*   **Impact:** Cuts infrastructure provisioning time from hours to minutes.
 
-<br>
+#### [Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)
+*A declarative, automated deployment pipeline for containerized apps.*
+*   **Architecture:** GitHub Actions workflows that automatically lint, test, and build Docker artifacts upon code push.
+*   **Tech Stack:** GitHub Actions, Docker, Shell Scripting.
+*   **Impact:** Enables rapid, safe, continuous integration with zero-downtime rollouts.
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,jenkins,ansible,linux,bash,python,nodejs,prometheus,grafana&theme=dark&perline=7" />
-</a>
+---
 
-<br><br><br>
+### 📊 GitHub Activity
 
-<!-- Projects Gallery -->
-## 📂 Featured Architectures
+<details>
+  <summary><b>View Activity Stats</b></summary>
+  <br>
+  
+  <a href="https://github.com/maheswari2418">
+    <img src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Maheswari's GitHub Stats" />
+  </a>
+</details>
 
-</div>
-
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3 align="center">🛡️ Incident Management System</h3>
-      <p align="center">
-        <i>Site Reliability • Resilience • Node.js</i>
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,docker,aws&theme=dark" height="30" />
-      </p>
-      <p>Engineered a highly resilient backend with advanced API retry logic, debouncing, and RCA validation workflows to drastically reduce MTTR during system outages.</p>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3 align="center">🏗️ AWS Infra via IaC</h3>
-      <p align="center">
-        <i>Terraform • AWS • Bash</i>
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=terraform,aws,bash&theme=dark" height="30" />
-      </p>
-      <p>Eliminated "configuration drift" by designing modular Terraform blueprints. Provisioned highly available, secure AWS networking and compute clusters as reproducible code.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3 align="center">⚙️ Zero-Touch CI/CD</h3>
-      <p align="center">
-        <i>GitHub Actions • Docker • Linux</i>
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=githubactions,docker,linux&theme=dark" height="30" />
-      </p>
-      <p>Engineered a declarative CI/CD pipeline triggering on code push. Automatically lints, tests, and deploys scalable Docker artifacts, promoting continuous integration.</p>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3 align="center">☁️ Cloud-Native E-Commerce</h3>
-      <p align="center">
-        <i>Jenkins • Docker • Auto Scaling</i>
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=jenkins,kubernetes,aws&theme=dark" height="30" />
-      </p>
-      <p>Architected and deployed a containerized platform on AWS EC2. Configured Auto Scaling and S3 object storage to ensure 99.9% availability during traffic spikes.</p>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<div align="center">
-
-<!-- Analytics Section -->
-## 📈 Operations Analytics
-
-<br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=transparent&hide_border=true&title_color=A18CD1&text_color=8b949e&icon_color=8FD3F4&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheswari2418&theme=transparent&hide_border=true&title_color=A18CD1&text_color=8b949e&icon_color=8FD3F4" width="48%" />
-
-<br><br><br>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FD3F4,50:A18CD1,100:FF9A9E&height=120&section=footer&text=Let%27s%20Build%20The%20Future%20of%20Cloud&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
-
-</div>
+---
+*“The best time to automate a task was yesterday. The second best time is today.”*
