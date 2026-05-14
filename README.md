@@ -1,92 +1,123 @@
-<h1 align="center">👋 Hi, I'm Maheswari Kosaraju</h1>
-<h3 align="center">DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Specialist</h3>
-<p align="center">
-  Passionate about architecting highly available infrastructure, automating CI/CD pipelines, and ensuring system resilience.<br>
-  Actively participating in <b>Hacktoberfest 2025</b> hunting for infrastructure and automation issues.
-</p>
-
----
-
-## 🚀 About Me
-- ☁️ **Cloud Specialist:** Architecting and optimizing environments on **AWS** (EC2, S3, RDS, VPC)
-- ⚙️ **Automation & CI/CD:** Engineering zero-downtime pipelines using **GitHub Actions, Jenkins & Docker**
-- 🏗️ **Infrastructure as Code:** Eliminating configuration drift with **Terraform & Ansible**
-- 📊 **Site Reliability (SRE):** Focused on observability (**Prometheus/Grafana**) and reducing MTTR
-- 🌱 Currently exploring: **Advanced Kubernetes (EKS) Administration**
-- 🤝 Contributing to **Open Source (DevOps tools & infrastructure configurations)**
-
----
-
-## 🛠 Tech Stack
-
-### Cloud & Infrastructure as Code
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-### Containers & CI/CD
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
-
-### Scripting, OS & Observability
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
----
-
-## 💼 Featured Architectures
-
-### 🛡️ [Production-Grade Incident Management System](https://github.com/maheswari2418)
-*   **Focus:** `Site Reliability` `Resilience Engineering`
-*   **Architecture:** Implemented advanced API retry logic and debouncing to ensure backend stability under catastrophic traffic loads. Validates RCA workflows to improve reporting accuracy and system recovery times.
-
-### 🏗️ [Automated AWS Infrastructure via IaC](https://github.com/maheswari2418/Infrastructure-Automation)
-*   **Focus:** `Terraform` `AWS (VPC/EC2)` `HCL`
-*   **Architecture:** Modular Terraform provisioning of VPCs, public/private subnets, and EC2 clusters, eliminating UI configuration drift and cutting deployment time from hours to minutes.
-
-### ⚙️ [Zero-Touch CI/CD Engine](https://github.com/maheswari2418/ci-cd-pipeline)
-*   **Focus:** `GitHub Actions` `Docker` `Linux`
-*   **Architecture:** GitHub Actions workflows that automatically lint, test, and build Docker artifacts upon code push, enabling rapid, safe, continuous integration with zero-downtime rollouts.
-
----
-
-## 🏅 Open Source & Achievements
-
-### **🌐 Hacktoberfest 2025**
-I actively contribute to open-source infrastructure projects and participated heavily in **Hacktoberfest 2025**. 
-- Created meaningful pull requests for CI/CD pipeline fixes and Dockerfile optimizations.
-- Improved documentation and automated testing coverage for community-driven DevOps tools.
-
-### 🎖️ Holopin Badges
 <div align="center">
-  <a href="https://holopin.io/@maheswari2418">
-    <img src="https://holopin.me/maheswari2418?fresh=true" alt="Holopin Badge Board" />
-  </a>
-</div>
 
----
+<!-- Clean, Cyber-Themed Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Maheswari%20Kosaraju&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Site%20Reliability%20&%20DevOps%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-## 🤝 Connect With Me
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1000&color=4364F7&center=true&vCenter=true&width=600&lines=Architecting+Highly+Available+Systems;Deploying+Zero-Downtime+Pipelines;Treating+Infrastructure+as+Code;Automating+Manual+Toil" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/maheswari-kosaraju-59040028a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0052D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:maheswari0937@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:maheswari2418@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-6FB1FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p align="center">
-  ⭐ <i>Automate • Deploy • Monitor • Scale</i> ⭐
+<br><br>
+
+<!-- About Section -->
+<h3 align="center">❝ Bridging the gap between code and the cloud. ❞</h3>
+<p align="center" style="color: #8b949e;">
+  I am a Cloud & SRE specialist obsessed with system resilience.<br>
+  I build highly available AWS infrastructure, containerize microservices, and engineer <br>
+  CI/CD pipelines that deploy safely and continuously.
 </p>
+
+<br>
+
+---
+
+<br>
+
+<!-- Tech Stack (Uniform, sleek "Flat Square" badges) -->
+## 🛠️ The Tech Ecosystem
+
+<div align="center">
+
+**`[ CLOUD & IaC ]`**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
+
+<br>
+
+**`[ CI/CD & CONTAINERS ]`**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+<br>
+
+**`[ OBSERVABILITY & SCRIPTING ]`**<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 📂 Architecture & Projects
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Production-Grade IMS</h3>
+      <b>Focus:</b> <code>Site Reliability</code> <code>Resilience</code>
+      <br><br>
+      Engineered a highly resilient backend for an Incident Management System. Implemented advanced API retry logic, debouncing, and RCA validation workflows to drastically reduce MTTR during system outages.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ AWS Infra via IaC</h3>
+      <b>Focus:</b> <code>Terraform</code> <code>AWS (VPC)</code>
+      <br><br>
+      Eliminated "configuration drift" by designing modular Terraform blueprints. Provisioned highly available, secure AWS networking and compute clusters as predictable, reproducible code.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <h3>⚙️ Zero-Touch CI/CD</h3>
+      <b>Focus:</b> <code>GitHub Actions</code> <code>Docker</code>
+      <br><br>
+      Engineered a declarative CI/CD pipeline triggering on code push. Automatically lints, tests, and deploys scalable Docker artifacts, promoting continuous integration and zero-downtime deployments.
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <h3>🏅 Hacktoberfest 2025</h3>
+      <b>Focus:</b> <code>Open Source</code> <code>Community</code>
+      <br><br>
+      Actively hunt for infrastructure and automation issues in public repositories. Contributed to multiple beginner-friendly and intermediate open-source tools to improve CI/CD and documentation.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## 📊 Operations Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=nord&hide_border=true&title_color=4364F7&text_color=5c6166&icon_color=6FB1FC&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheswari2418&theme=nord&hide_border=true&title_color=4364F7&text_color=5c6166&icon_color=6FB1FC" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FB1FC,50:4364F7,100:0052D4&height=120&section=footer&text=Code%20•%20Automate%20•%20Deploy%20•%20Scale&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+</div>
