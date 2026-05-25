@@ -80,14 +80,13 @@
 
 ---
 
-## 📈 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maheswari2418&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/maheswari2418/maheswari2418/main/profile-summary-card-output/github_dark/profile-details.svg" width="70%" alt="Profile Details" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheswari2418&theme=github-dark" alt="Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/maheswari2418/maheswari2418/main/profile-summary-card-output/github_dark/stats.svg" width="34%" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/maheswari2418/maheswari2418/main/profile-summary-card-output/github_dark/repos-per-language.svg" width="34%" alt="Language Stats" />
 </div>
 
 ---
