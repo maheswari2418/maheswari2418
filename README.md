@@ -82,14 +82,13 @@
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=github_dark" alt="Maheswari's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=github_dark" alt="Maheswari's Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheswari2418&theme=github_dark" alt="Maheswari's GitHub Streak" width="97%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maheswari2418&theme=onedark" alt="GitHub Trophies" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheswari2418&theme=github-dark" alt="Activity Graph" width="100%" />
+</div>
 
 ---
 
