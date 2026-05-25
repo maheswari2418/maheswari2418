@@ -81,12 +81,12 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maheswari2418/maheswari2418/main/profile-summary-card-output/github_dark/profile-details.svg" width="70%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheswari2418&theme=github_dark" width="70%" alt="Profile Details" />
 </div>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maheswari2418/maheswari2418/main/profile-summary-card-output/github_dark/stats.svg" width="34%" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/maheswari2418/maheswari2418/main/profile-summary-card-output/github_dark/repos-per-language.svg" width="34%" alt="Language Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheswari2418&theme=github_dark" width="34%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheswari2418&theme=github_dark" width="34%" alt="Language Stats" />
 </div>
 
 ---
