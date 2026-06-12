@@ -14,7 +14,7 @@
 - 🏗️ Experience with Infrastructure as Code using **Terraform**
 - 🧩 Strong foundation in **Linux, Bash Scripting, and Python**
 - 🌱 Currently exploring **Advanced Kubernetes (EKS) & Platform Engineering**
-- 🤝 Contributing to **Open Source Infrastructure & Hacktoberfest 2025**
+- 🤝 Contributing to **Open Source & Hacktoberfest 2025**
 
 ---
 
